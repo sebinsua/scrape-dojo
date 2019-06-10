@@ -1,0 +1,337 @@
+{
+  "id": "5af46c42ccb7d534e0c02b39",
+  "name": "Escape the City: Wild Swims",
+  "slug": "escape-the-city-wild-swims-london",
+  "followed": false,
+  "city_id": "LON",
+  "contents": [
+    {
+      "content_type": 1,
+      "padding": 15,
+      "order": 0,
+      "medias": [
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3029/198970.jpg",
+          "base64": "/9j/4AAQSkZJRgABAQEASABIAAD/2wBDACgcHiMeGSgjISMtKygwPGRBPDc3PHtYXUlkkYCZlo+AjIqgtObDoKrarYqMyP/L2u71////m8H////6/+b9//j/2wBDASstLTw1PHZBQXb4pYyl+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj/wAARCABeAJYDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAwQAAgUBBv/EADAQAAICAQMDBAECBAcAAAAAAAECABEDEiExBEFREyJhcYEysRSRodEkM0JT4fDx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQACA//EABwRAQEBAAMBAQEAAAAAAAAAAAABEQISITFRQf/aAAwDAQACEQMRAD8Az1HuE0ulAakYAjt5uZykKRZ7x7ps2h9Wrb6mdBn0dF2QX8bbQXVZXx9OuPdS21eRHDlwG2JUg7EzIzZRlzMw/TdKPAj4R+j6RszFgdAA5qMZMDYhWVVbGTuwNV9xzo9H8MnpmxW/3CkWCIphZ1U5iVBUEfpPP3L4sBsgrqagaMJ1fSOAXRCVHa70/wDEV1vjFAn8f3nMCNjVsYcEE1uO43lSUBGjgeZUML3Gr4M4WBG/jYyBvVidCrCj2N733jWDGrogC2ASdzzMxSuv3XXxNbogmm1NkiahMqNKgeJ2QwL5aPIErykI0kXXI6nU7Ar4AhceVcl6TxGcpfiXkki+bqNOysB9ytRiSB9RkABVnJ7qNpIp5sKSRR3MaUFdvEDjXVlVYcqQpJ2A8znaKrmcqunvLdDiXJlt60rvR7mKm2cnydo706BE3fvxL4mt6lJ7AAB4lUzsWoiJDIFFBrHyJUZfcpLKd6oSlqP9TkAxOO+k0JjoutyrJpfsJp9SC2M2Nq5iWPF6hBo32nOX9NCfFWNWJAvkdxAlTe3ENlsOwcb95QDeaDikkD+sP0+RsWTb6gVFGdGrVtsQZqBqKGG5axd7mWbfezzFcLH0z8S+ohauc7LrX8czZKICfn4gfVKEaTR+5XK3OkgHv3gLNEETfGM02/Uu7VZgnzNqAJFDf4gVvVwR9yMxJFCbDT6bqmy4/ZW3MkzGNcbfEkO1IeG/W9u5AhmPuUOTpJoyJi9Me0Wx2J/tKsC5IbYXQuZ+1p3pMOrIdZ0gTSwYMTtuTvwLiihcYVQCTW8PgyaXC2LP9Iy7UM/RqgJXc+Liow2VHpU1jiaRJdLAs95zGr67YD7+JrEXyjJiRiENX5uI+qSbog/vNfPlXGKNWRxM/OMbKCi7zF4yKlnfVpc9u0qQCb7fEumI5FOgaq7ShXQ5BBU+IBVRQF83LesyKzBfdW3mQnY/dzjbIGFb+ItSaJ0ud2xEuAN9owM450jnkxNG1oRwfiVZ9Ptsmx3lZ6zfGj/EYm5xITOlum/21WZy2W+BC2FIY7VxDFv6cY9KOQB+Yvk0Kx9OmB3AsbSmRgye4XfFQLNoUqFA+TuZQL7OTrdUIPFXJAFE0gte/a5JrEYzaAVN2COxkRlKa63/ANJPnzKIuZ1RSnwp0gH/AMlmGjIUbSSnABg2sqtRZ2Fnj5jnT4MaAMy23kGJEhzqYClFTvqE0qkt9RgbaABRQqd1CJ9JlOmgHceTzHBxOiI9YzaiABtFEJ3O81WwKzFiLNQa9KOT44nPrUQyWg7DatvEFkbU1MP5RjqcZZ33AHNmJElRW9SBjDhXItE0f32k6zpfSRAG2554lumzquRdQHPMa6tVVsT7afdZIvneMywy4zUQaQdQvgzj4m55jDY1GVSq/qB2EJi6Z8m4ZeLELLvgIhSDOkEm73mqvQqGBduOw7yzYOnfZVWz4j1o1kHUTvuK4nG5q/sx3qen9JtgdPmB9BythbHkQyoq3gH+ckI2Iqa019yS0iYE05SWDixubMrkx48YLs2ongeIfOitl1nIR2IESyMDkbvcJ61VzmCob8e1Ow+YPXR2IkI2LcyocDtZM1GaZXqXUWLJPNmaXS5y22oMfANzEVvcL48R7H1CBfapv74moGsGfTsv5uX4FXEulfJXvK0RtR3jBaakWuZMa+m3tBPMy3BZia/E1C0WbGGyMCNjvDlw1aQ06H0k2DvHlDP0gs7iD6np1I1IN+4kxt/hmQcjiEmXEGD7t7AHeO9I1KSaPyBMx3KnTfuEL0zolM3fa/Blx+qtTK66DsxB7DmIPmIYKpdQu5FjYw5zqO9n4mc7B8rnvfaa5eA2vUvmcgsnH6WFX9GQdSuJ2VaJHO17/cRDHXorY7icV2Vmtb7D4mNRr+KcOSd7/wC8SRYFiNQFX5MkNpM5GVUdCNlHMRzHcaQQK2ls+QswFnRzpnMfu0gAe1Sb8wkxqhI7JurEH4lbEsz2WvkzmOg91c0BEQMbuoZbUAkLv58QvT6SANCg/AlsvTpqNDf5MYhMWRE4fcdgYwua1BIozOSy1XsvG0bxt7e/m5uMjPlCKWY0BKJnXILB/Ez+o6wtaKCAdjFzemr53leRxqt1CDJo1b/tBesXyFVUXzZmfjyFcgIqwY/hZWQMFAJhurAchLOdhY5E5jYl6U0AN6PMNlrQQABe0Veg1DtM3ygT1SuQOlA/vOB6JJTe+bqCALG7nW/y9htdSQq5FdyN9R+OJYqGJGhjQ2o8QOIE5V33H7RwLpsg0CN9pzphbEVxOxdTqIoyRp+nTOA9lSeaEkz2l+t9K//Z",
+          "aspect_ratio": 1,
+          "width": 2501,
+          "height": 1563,
+          "order": 0
+        }
+      ]
+    },
+    {
+      "content_type": 2,
+      "padding": 15,
+      "order": 1,
+      "text": {
+        "size": 25,
+        "text": "Escape the City: Wild Swims",
+        "style": "light",
+        "colour": "#ffffff",
+        "text_type": "title",
+        "uppercase": false
+      },
+      "follow_button": true
+    },
+    {
+      "content_type": 2,
+      "padding": 45,
+      "order": 2,
+      "text": {
+        "size": 16,
+        "text": "Every so often we experience a strong hankering to get out of the city; to do something active in the wilderness surrounded by trees, flowers and rivers, all under the menacing gaze of small-town rudeboys. \n\nThe aim is to return feeling revitalised and, crucially, all kinds of smug, with tall tales of adventure ready to annoy the heck out of anyone who makes the mistake of asking you about your weekend. Lets go and get wet in opaque water...",
+        "style": "normal",
+        "colour": "#A3A3A3",
+        "text_type": "paragraph",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 3
+    },
+    {
+      "content_type": 2,
+      "padding": 35,
+      "order": 4,
+      "text": {
+        "size": 20,
+        "text": "1. Pangbourne (Berkshire)",
+        "style": "semi-bold",
+        "colour": "#ffffff",
+        "text_type": "heading",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 1,
+      "padding": 15,
+      "order": 5,
+      "medias": [
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3029/198984.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.66065,
+          "width": 460,
+          "height": 277,
+          "order": 0
+        }
+      ]
+    },
+    {
+      "content_type": 2,
+      "padding": 45,
+      "order": 6,
+      "text": {
+        "size": 16,
+        "text": "Jump on the train at Paddington and head west to Pangbourne, a sleepy village in Berkshire. On arrival, grab some snacks and assorted munch from the supermarket, before heading across the bridge to the north bank of the River Thames. Travelling upstream, you'll be surrounded by ancient oaks, deers, and the occasional empty condom wrapper. \n\nKeep those eyes peeled for several chalky banks suitable for dipping in the slow moving water that is a lot cleaner than you’ll remember it. Have a dip, have a picnic, stay clear of the occasional canal boat manned by wealthy middle aged sorts. Then keep on strolling until you reach Goring, a place of many a quaint pub and a train station ready to return you home. \n\nTravel: ~£20",
+        "style": "normal",
+        "colour": "#A3A3A3",
+        "text_type": "paragraph",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 7
+    },
+    {
+      "content_type": 2,
+      "padding": 35,
+      "order": 8,
+      "text": {
+        "size": 20,
+        "text": "2. Grantchester Meadows (Cambridgeshire)",
+        "style": "semi-bold",
+        "colour": "#ffffff",
+        "text_type": "heading",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 1,
+      "padding": 15,
+      "order": 9,
+      "medias": [
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3029/198995.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.49927,
+          "width": 1024,
+          "height": 683,
+          "order": 0
+        }
+      ]
+    },
+    {
+      "content_type": 2,
+      "padding": 45,
+      "order": 10,
+      "text": {
+        "size": 16,
+        "text": "Taking the right train from King's Cross will land you in Cambridge and the promised land of the River Cam. It's a 25 minute bop from the station to Sheep's Green and the beginning of the Wind in the Willows-esque Grantchester Meadows, a meandering part of the river rife with clear(ish) water, wildlife and, potentially, your wild life. \n\nStroll south and you'll spot plenty of points of entry. Take your clothes off, get in and prepare to gesture angrily at punting tourists, as it can get busy. You might even swim the entire meadow (down to the Orchard Tea Garden), but you'll need a stuff-carrier on land. When you reach Grantchester, hit the Red Lion for refreshments. Then, it's either an hour walk back to Cambridge train station or a cab, we guess. \n\nTravel: ~£18\n",
+        "style": "normal",
+        "colour": "#A3A3A3",
+        "text_type": "paragraph",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 11
+    },
+    {
+      "content_type": 2,
+      "padding": 35,
+      "order": 12,
+      "text": {
+        "size": 20,
+        "text": "3. Frensham Ponds (Surrey)",
+        "style": "semi-bold",
+        "colour": "#ffffff",
+        "text_type": "heading",
+        "uppercase": false
+      }
+    },
+    {
+      "content_type": 1,
+      "padding": 15,
+      "order": 13,
+      "medias": [
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3029/199017.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.50588,
+          "width": 2048,
+          "height": 1360,
+          "order": 0
+        }
+      ]
+    },
+    {
+      "content_type": 2,
+      "padding": 45,
+      "order": 14,
+      "text": {
+        "size": 16,
+        "text": "Turn up at Waterloo, ready for a trip to Surrey's answer to the lakes of Italy: the manmade Frensham Ponds. Upon arrival at Frensham, decide on whether you've the minerals for the scenic eight mile walk or, if you're the person we think you are, jump aboard the number 19 bus for a 20 minute cruise to Pond Lane. You'll need that energy for swimming and peacocking, after all. \n\nHere, amongst the pine trees, sand dune banks, tranquil water and hordes of young families, the water is of excellent quality but isn't particularly deep (max of 1.4 metres), so go for some strokes and then roll back onto land like you're bossman Daniel Craig. Grab something from the cafe or tuck into your picnic and then stroll around the footpaths encircling the lakes before doing the journey in reverse. \n\nTravel costs:: ~£25",
+        "style": "normal",
+        "colour": "#A3A3A3",
+        "text_type": "paragraph",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 15
+    },
+    {
+      "content_type": 2,
+      "padding": 35,
+      "order": 16,
+      "text": {
+        "size": 20,
+        "text": "4. Shillingford (Oxfordshire)",
+        "style": "semi-bold",
+        "colour": "#ffffff",
+        "text_type": "heading",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 1,
+      "padding": 15,
+      "order": 17,
+      "medias": [
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3029/199018.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.66667,
+          "width": 620,
+          "height": 372,
+          "order": 0
+        }
+      ]
+    },
+    {
+      "content_type": 2,
+      "padding": 25,
+      "order": 18,
+      "text": {
+        "size": 16,
+        "text": "Take the fast half-hour train from Paddington to Reading and then hop straight onto the aptly named River Rapids X40 bus that’ll take another 30 minutes and land you in the ancient market town of Wallingford. Momentarily consider its vast history, before walking towards the Thames and north along its meandering, tree-lined west bank, taking in all available sights. Grab some lunch at the Waterside Cafe Bistro in Benson or do the picnic thing. \n\nKeep walking until you hit Shillingford Bridge, around which are several good swimming spots. Make your way through the reeds and out into that water. Bask, splash, wallow, then complete the 6.5 mile circular walk back to Wallingford and get the frick back to London the way you came. \n\nTravel: ~£28",
+        "style": "normal",
+        "colour": "#A3A3A3",
+        "text_type": "paragraph",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 10,
+      "padding": 45,
+      "order": 19,
+      "text": {
+        "size": 14,
+        "text": "Here's the walk route ",
+        "style": "semi-bold",
+        "colour": "#ffffff",
+        "text_type": "link",
+        "uppercase": true
+      },
+      "action": {
+        "url": "https://gb.mapometer.com/walking/route_4193506.html",
+        "type": "url"
+      }
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 20
+    },
+    {
+      "content_type": 2,
+      "padding": 35,
+      "order": 21,
+      "text": {
+        "size": 20,
+        "text": "5. Manningtree Circular (Essex)",
+        "style": "semi-bold",
+        "colour": "#ffffff",
+        "text_type": "heading",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 1,
+      "padding": 15,
+      "order": 22,
+      "medias": [
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3029/199019.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.50059,
+          "width": 1280,
+          "height": 853,
+          "order": 0
+        }
+      ]
+    },
+    {
+      "content_type": 2,
+      "padding": 25,
+      "order": 23,
+      "text": {
+        "size": 16,
+        "text": "It's the River Stour this time and a trip to Constable country, with all the picturesque hallmarks of rural life you could reasonably ask for. From Liverpool Street head towards Essex, on the hour-long (and fairly expensive) zip to Manningtree station. From here, head along the footpath to Dedham. Despite how it sounds, it's not dead at all - grab some lunch from the Sun Inn, before the first dip in The Stour opposite Dedham Mill. Though always remember what your mother told you about swimming after eating.\n\nContinue on the journey eastward and downstream towards Flatford (which is flat), where plenty more swimming opportunities await. Take in the beauty of the occasional old building, willows draping in the river and local sorts smoking fat doobies. Cross over the bridge at Flatford onto the south bank and continue along until you get to Manningtree Station. Go home. \n\nTravel: ~£30",
+        "style": "normal",
+        "colour": "#A3A3A3",
+        "text_type": "paragraph",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 10,
+      "padding": 15,
+      "order": 24,
+      "text": {
+        "size": 14,
+        "text": "Click here for full details of the walk",
+        "style": "semi-bold",
+        "colour": "#ffffff",
+        "text_type": "link",
+        "uppercase": true
+      },
+      "action": {
+        "url": "https://www.walkingclub.org.uk/walk/manningtree-circular/",
+        "type": "url"
+      }
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "5bf7edda276e080411a4298f",
+  "name": "The Regent's Canal Riviera ",
+  "slug": "the-regents-canal-riviera-london",
+  "followed": false,
+  "city_id": "LON",
+  "contents": [
+    {
+      "content_type": 1,
+      "padding": 15,
+      "order": 0,
+      "medias": [
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3442/241306.jpg",
+          "base64": "/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDACgcHiMeGSgjISMtKygwPGRBPDc3PHtYXUlkkYCZlo+AjIqgtObDoKrarYqMyP/L2u71////m8H////6/+b9//j/2wBDASstLTw1PHZBQXb4pYyl+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj/wAARCABxAJYDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAECAwQFBv/EAC4QAAICAQMDAgQGAwEAAAAAAAABAhEDEiExBEFRE2EiMnGRFBUjQlOBBVLhof/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABkRAQEBAQEBAAAAAAAAAAAAAAABESExQf/aAAwDAQACEQMRAD8A8hbvwFe4xpIiko0VTsKKVV5Xgg26THDLkcJ5HBtfC/LOrFGGKGSlKXKUtG6+py45Ti/gdtqjrw5JZcE/1J2o0+ya8EaawcY4dEsahv3T1L3RaTi3kyW5XaXb6h0qeWKTi3og1/6dkMEVD4lb8me/F5PXJPp5y6eU295J7R2vxscShlyS0JLVHmNJfc9jQqk4N+y8M86PTZHnbljU63avn/pUZdQ883DA3FX+yKpf9NuiwZMHVrUlNO4tx4Xsx58Dh00Zyioz12trdFLq8impO2+8UtmzSPTAmElONoorIAAAQABAAIAPk6GkBSTChIqty4x2LUU9yKmEOGuD1+kWLHgbk05afiruedF6WlT3N5xppwxTku9OtyDr6XLBZnH0/SUlsntZplzejNrJFtPdULDhjODyZoP1Hs9Xt3Ns2L1YKOpx3T2LnDZrLFkc03BVje6k+31NYYoKfqQ5a7PZnJg6WWPPlxzTeNxemRvinDCtDyuaXDYnPStpRjJVJJr3CopVSozlli3aade4KTk+aRdRrZz5+peNpJJ2auVx2PO6iXxJd99yaHPqZSd217JkrqJxdqT29zBsmyjtX+Qyd4RYvzGd/JE4rCwju/Mpfxr7gcFgBypFWSikRWkXSByrgiwsDV5OK7bmsOoSlxa7ps5LKTGK9nD1WPI4RcnaVbvk7ITU1a4PnIt9jv6dz9GTcnVr+x4Y7+oy6IVFq2cMpWEmQ2T0PVRUM7imnuZNk2MHYup1RpumjDqXc0/KMbFKTlyy4gZIAUIBBYQAKwKOewskdkVVisQAUMkaA1jVo9HEnDE4trfsux5kTq1P0ouluyVWrZLZlOcoza8FXfYgGyWwbJsqHYWSFlDsQrAAABWAAIAjmsYgQDGIAqkNEopIopHTjlqxqG20k9znhDU+aNkseN73Jmasa58cnkk9uLM3FrfsKeRzd8IlypVbokD3fdku6FrrsGqzSGm6C2H9BpfgAv2FfsDiw0sB894iW7q0g0sWlgNRvuBNMAMBgAQAABVIuK8maZaYGkZJtEuVy3CKtlSjZFC55QmvsRbi6LTk2viuPgDeHTWlKT58GixRjvRjCUofK7Xg7OmniyWm6k1wzN1Uxha9iZY1Hvz2O300ls39Dm6j5kQYOCIcEaO6ohmhOncTjvyVYuSoimBQAcbtPfYLHanG1ySVAMQyoY0xAgrSLNYu9mYItMlWLmk0ZJuOxomyJQvggpS9ytVrcw3i9ylJsDuxdblxRqX6kfPdGnqY86+F73su553qNdw1Rbuql5RMHXKk9iWZw6iUdpJTj78nTijh6htQlpf+re4GNis7fwEf5JfYT6GN/PL7FHDYHf8AgcfeUmAR42Hhhk+dgBfp8IAAqKAACqRaACLAuRgBFRk4IiABFDXIABRH7l9QAQfQR+SP0BgBEIAAD//Z",
+          "aspect_ratio": 1,
+          "width": 794,
+          "height": 600,
+          "order": 0
+        }
+      ]
+    },
+    {
+      "content_type": 2,
+      "padding": 15,
+      "order": 1,
+      "text": {
+        "size": 25,
+        "text": "The Regent's Canal Riviera ",
+        "style": "light",
+        "colour": "#ffffff",
+        "text_type": "title",
+        "uppercase": false
+      },
+      "follow_button": true
+    },
+    {
+      "content_type": 2,
+      "padding": 45,
+      "order": 2,
+      "text": {
+        "size": 16,
+        "text": "It's easy to feel like all there is to London is stress, rats and rush hour on the tube - but it only takes a glimmer of sunlight, a change in the seasons or a slight variation of your route home and suddenly you're looking around thinking, 'blimey this place is fairly lovely after all'. And that, kiddos, is just the kind of emotion we get whenever we stroll along Regent's Canal.\n\nIn the interest of sharing such positive feelings, we have put together this guide of where to eat, drink and generally marvel at stuff along this fascinating stretch of water.",
+        "style": "normal",
+        "colour": "#A3A3A3",
+        "text_type": "paragraph",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 3
+    },
+    {
+      "content_type": 10,
+      "padding": 15,
+      "order": 4,
+      "text": {
+        "size": 14,
+        "text": "Part 1: Limehouse to Haggerston",
+        "style": "semi-bold",
+        "colour": "#ffffff",
+        "text_type": "link",
+        "uppercase": true
+      },
+      "action": {
+        "name": "The Regent's Canal Riviera: Limehouse to Haggerston",
+        "type": "story",
+        "item_id": "5950e49671d24312ddd6277a"
+      }
+    },
+    {
+      "content_type": 10,
+      "padding": 15,
+      "order": 5,
+      "text": {
+        "size": 14,
+        "text": "Part 2: Islington to Kings Cross",
+        "style": "semi-bold",
+        "colour": "#ffffff",
+        "text_type": "link",
+        "uppercase": true
+      },
+      "action": {
+        "name": "The Regent's Canal Riviera: Islington to Kings Cross",
+        "type": "story",
+        "item_id": "596f3ad97b51e53dea636109"
+      }
+    },
+    {
+      "content_type": 10,
+      "padding": 15,
+      "order": 6,
+      "text": {
+        "size": 14,
+        "text": "Part 3: Camden Town to Regent's Park",
+        "style": "semi-bold",
+        "colour": "#ffffff",
+        "text_type": "link",
+        "uppercase": true
+      },
+      "action": {
+        "name": "The Regent's Canal Riviera: Camden Town to Regent's Park",
+        "type": "story",
+        "item_id": "598841a464f78d2f3e683d7f"
+      }
+    },
+    {
+      "content_type": 10,
+      "padding": 15,
+      "order": 7,
+      "text": {
+        "size": 14,
+        "text": "Part 4: Paddington to Little Venice",
+        "style": "semi-bold",
+        "colour": "#ffffff",
+        "text_type": "link",
+        "uppercase": true
+      },
+      "action": {
+        "name": "The Regent's Canal Riviera: Paddington and Little Venice",
+        "type": "story",
+        "item_id": "5989dbfcdef02f78e5b199f0"
+      }
+    }
+  ]
+}

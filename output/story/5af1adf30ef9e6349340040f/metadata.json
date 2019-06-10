@@ -1,0 +1,395 @@
+{
+  "id": "5af1adf30ef9e6349340040f",
+  "name": "What's the Deal With Wild Beer?",
+  "slug": "whats-the-deal-with-wild-beer-london",
+  "followed": false,
+  "city_id": "LON",
+  "contents": [
+    {
+      "content_type": 1,
+      "padding": 15,
+      "order": 0,
+      "medias": [
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3019/198088.jpg",
+          "base64": "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",
+          "aspect_ratio": 1,
+          "width": 1280,
+          "height": 853,
+          "order": 0
+        }
+      ]
+    },
+    {
+      "content_type": 2,
+      "padding": 15,
+      "order": 1,
+      "text": {
+        "size": 25,
+        "text": "What's the Deal With Wild Beer? With Beavertown's Sam Millard",
+        "style": "light",
+        "colour": "#ffffff",
+        "text_type": "title",
+        "uppercase": false
+      },
+      "follow_button": true
+    },
+    {
+      "content_type": 2,
+      "padding": 45,
+      "order": 2,
+      "text": {
+        "size": 16,
+        "text": "Remember when people were getting all hot and heavy for craft beer? Good times. Now the trends’ters are thirsty for the sour stuff and, stranger still, wild beer. A bit confused by what’s a’ brewing in London these days, we caught up with Beavertown’s Sam Millard to quiz him long and hard on all things wild and sour.\n\nSandwiched between Tottenham Hale station, high rise flats and water reservoirs, lies the Beavertown headquarters. We entered their portion of industrial estate with some apprehension and quickly located Sam - who enforced a high vis vest (no braggies) then took us for a spin.",
+        "style": "normal",
+        "colour": "#A3A3A3",
+        "text_type": "paragraph",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 3
+    },
+    {
+      "content_type": 2,
+      "padding": 35,
+      "order": 4,
+      "text": {
+        "size": 20,
+        "text": "What makes it wild…? or sour…?",
+        "style": "semi-bold",
+        "colour": "#ffffff",
+        "text_type": "heading",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 1,
+      "padding": 15,
+      "order": 5,
+      "medias": [
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3019/198089.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.50059,
+          "width": 1280,
+          "height": 853,
+          "order": 0
+        },
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3019/198090.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.50059,
+          "width": 1280,
+          "height": 853,
+          "order": 1
+        }
+      ]
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 6
+    },
+    {
+      "content_type": 2,
+      "padding": 45,
+      "order": 7,
+      "text": {
+        "size": 16,
+        "text": "As the name suggests, a sour beer has a low ph. Sam likens it to the creation of yoghurt from milk. The sour flavour comes from particular bacterial strains like lactobacillus which enable the souring process. In short, sour beer is all about flavour. \n\nWild beer is a entirely different kettle of fish. The brewery encompasses two key sections, housed in completely separate buildings: the ‘clean’ side where fresh beers are brewed and canned on a large scale; and the ‘dirty’ side where wild beers are brewed, barrel aged, then bottled in much smaller batches. ",
+        "style": "normal",
+        "colour": "#A3A3A3",
+        "text_type": "paragraph",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 8
+    },
+    {
+      "content_type": 1,
+      "padding": 15,
+      "order": 9,
+      "medias": [
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3019/198091.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.50059,
+          "width": 1280,
+          "height": 853,
+          "order": 0
+        },
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3019/198139.jpg",
+          "base64": "/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDACgcHiMeGSgjISMtKygwPGRBPDc3PHtYXUlkkYCZlo+AjIqgtObDoKrarYqMyP/L2u71////m8H////6/+b9//j/2wBDASstLTw1PHZBQXb4pYyl+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj/wAARCABmAJYDAREAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAgMEAQUABv/EADIQAAICAQMCBQMCBQUBAAAAAAECABEDBBIhMUETIlFhcQUykRRSI0KBocEVM4Kx8NH/xAAYAQEBAQEBAAAAAAAAAAAAAAABAAIDBP/EACARAQEBAQADAQEBAAMAAAAAAAABEQISITFBURMDMnH/2gAMAwEAAhEDEQA/AEnU6fJiJXEceYHlAfKYZp10cf6rTYwPDDp1peoh7i9VJrtUdQAE4UdR3uXlFiQDkCKBQYciQHp8AfJzyJIeqdlYrjDHEOLPT+hgUoonr+Yp4cWJBtyTJJkkICSb0kmhoo3BgyahtuNb/wChBOvpfp+PBTP53/sIpZJBfKmP72C36yTl6vRrkx78YC5F6Ed/ac5a0nXVZVwDw83UUUJ6TprKUt0LAi+5hi0W4kcG+JnMO6zcAO/4lLTizSsj46DC+46cTX0F6rMu5sZ6dpJCQCZB4kgdeJJm6SFJNEkISTevAkVuH6XmfHvNIeyt3+fSIU6bL+mbwinhn9h7/B7yS39RiC2XArqD1kkeo+pXa4B/yMkgZmdtzksfeCdMmzz0nHW3MQ4jlO4bk3HjtOsZVZM6MtUCtUe34jasZocWHJuYINoPQ8zn19MXkCq7TNhTZ9BhyAlfK3ZljfXxORqMRxvWS76WJrm78FJojobmtDdxIoijEMUAKD6xTSCBckGyfiSUYcTZarkSLuaLSYMI3L53HBY9j/iQVkgCyaEk5+s1mFkbGEGX56CCcx97Dlt1dAesdQFfsfxJGA3BEPqtTnRvMdo67RUpzIdadpVFVgtDkEd5jb+wgOQ0EB4E0Ff07UDDlKOaV+L9DM9T9MdhukxSFb21Ao/qOLxMVj7ukeb7V+JdNo1ZiA9kcM1dPib76xmRQ/07EQQGcH1u5y/0saxBm0z4SQaI7H1nXnvWbMJ5HxNygVWDtFGQP0TnHkPJqriXV/1BMGOsgJY8rXQyCHPrMuoPmNL+0QJQkhBLkhHAGHP5kgeDlQWFLL6gRAP4jaVvIpZmFlB2HxEJx9wvtMtMQeUsTXYH3knm8jVdiWBXh+oZEx7CdwqgT1ExeWpVSfUsQxjcH3VzxM+NOxNn1xzOKG1QbAjOcWi+mZwM74mP3Gx8y7nrVK6Z69JxaKzouTGQR7xlTlfpypYkgKDXzPRLrGHLoXdbQhb6D1mfL3kOJmV8RKlYzqUY1sl46uyPWa0PBSo4MgZjbnmJX4NM+VQwoJ+4yS3FpsS8nzn3kBvqMWM0WHwJJ84Tt22CAOKHYzMunA5Mtj7ifnqIzf1Fg2QIh4gtzR+YFmwjuJasYQRJMEQ0Eggg0R0ME6OD6mQu3Jw3QtXUTleLP+re79OfXYjwh3H4mZxZ9OxBkylsI55DWfzOk+s346mDKMuBXU9vwZysytz2XqMQdDxyJS5VUuLCuUEm6BrjrO+fxgRwrjzKr5D4RP3VZEr6C7Fj0uLBu2hybG4/+4jqKbId25Syg+8UD9QV3KDYHB95IDJlyN/BorV9ekgzX4v4jFeNxBnLi+2unPdWHB5nRlTg0oFNlFnsn/2Z66wyLsWiS92bzN6dhOXla3h36PTuDaKK9BNc+/0X0i1H0/apbDZ9VP8AiM6/qxzmG0zpKwwKWNKCT7RTwU9LH5hpafK1A9O8vqZuPPvLEbptS2nY1yp6iHXPkpcWZfqGNsflDbj2InOcXfbXkRoc23KUYgB+hPrOvxl0cyBsWTcKIFj5l1dikypV3+MvmZi4vjrLNXwTOQaBs306EQyrU7NkUkoQFJsirlqw7Dq8eNF3JvsdPSaD2o1OLJkIbdQ6ETlOepPTVspJbGhDKxJPSx0mtv6PRulybtSLPxMdz01PrpE0JzjRRc7hwaiDC3EdTn6jTK+o5+27muesFhuPAuRQijbjHLV/MY9USHjSadgVKKOIT3+moNTownKXXoe0p3/VYhAN1U7MGLhagSOfQcmFuHAMhBqufcVKXVgSCOsQsTNqDi2lgy1VHkzPidF4hYDcldrWWxFZGYeVWtF4EdQLI68RDbvqAfmZwmY8QyEIq7jL2PRD8OQOg4EiJXKOHHUQzZidbFnXNjDL17j0nGzG5dFuG+rgRFgFinP1GoG9gp7VN8xm0/6fl34SO6mXU9qKTu4qBDlG4UfSY6Mc7LSDKwAu6E6c3cjN/VWkUDGr9zM932ZPRmfEmRa9u/rLZPcX/rnHGUyUeSxnadbGLBNpcn3rRrmhCdezYSS1g2b9b5mvrPx45GPDgN8iHj/DolbGx5LKPzL3F6E2PzHYQw+YeX9WLNJjTHgZiebJ/wDe0b1IJNc1xtdub94kHQyAkysjWrFT7Ss0qF1zhtxClqq5jwh8gZdXlyCroe0ZxItpFzQO02c4cm5efUesLNUrqJqEybdhu+vtOVljTNRmTGPM0z42ncctsm7xAe5udZMxnVX0/MGTwz1XkfEx/wAs961zfxaT+JyaQapwmfEfS7nfiemL9WA0eJylxqotSgViQt0ek6cVnogV3JE63WG0O1GWrHlRmJ2gmvaOoeXVO/3bWHuJz54k+NanJBA9e82yE/MU1UZvtUmCMXGF5cFq7CGkOQJdp09LuIBFPXBGYlfK21av3NSICbMgyKarFGDKaIhZvpLMetbY5ZSWodDMf5xrySZchyuWb8ek3Jgt1VptUNoTIaI6GcuuPexqdCzuG+0gx45xWp1rvOjB+mGLxwMqgqQevaKOAODKQRSuNwB7VEIXP7aAMzPReCMx2gf5khlFxmqDv/YQ0t8DK/JFTPlDjP0+VeV/sZeUWACh3p7U9zX+JrQ8cQIbYSeeOOojoGNLSb8jbV7ADky0sCPtIVX2nrz1mdhws4yDVG/SalGN8Fhu3FRtqwTLQ8uMvVD+txTUSt43fymGrC9puKH4fmpQW9yKgmrat5opooNZHECND5wy9jxKBRrci51AQMSp+4DiaCRV32zGZJ3+2lD05mSdhxBKY8seSZi0qMZAyqx7S5+m/B5SGyXXAEe/dE+JNZjU4/EXhlhzfeGl4F3EluaPSa/cB6qMuQu3IXgCY6pkVYkViQwviPEl3V1U2owrkWj17GEuJEmIM4Wz6zp5ehg8KBnKrwLqXVyKKlwovG0TjOrrWJnwBcoC9CePadOe7RY9iTxQRZAua6uCRmTTBRwe1zM6NhTKFIq6PrOrA1ocEcyxL9IQMQOxSBY5EQ//2Q==",
+          "aspect_ratio": 1.47636,
+          "width": 1280,
+          "height": 867,
+          "order": 1
+        }
+      ]
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 10
+    },
+    {
+      "content_type": 2,
+      "padding": 45,
+      "order": 11,
+      "text": {
+        "size": 16,
+        "text": "And this, kids, is the crux of it. While the clean side is sanitised and controlled to create those crisp core lines and flavours we know and love (like Neck Oil, yum yum), the dirty side is completely different. Beer here is brewed with all manner of wild yeasts and bacterial cultures: microorganisms that they may or may not have collected from a bucket on Tottenham marshes. The second big difference is time - their wild beer is fermented first in stainless steel then aged in breathable wooden barrels for months. This means yeast cultures present in the air can have a further effect on the finished product - spooky stuff.\n\nNote: So wild means one thing and sour another, a beer can be one or both. Got it? Cool.",
+        "style": "normal",
+        "colour": "#A3A3A3",
+        "text_type": "paragraph",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 12
+    },
+    {
+      "content_type": 2,
+      "padding": 35,
+      "order": 13,
+      "text": {
+        "size": 20,
+        "text": "Why they do it...",
+        "style": "semi-bold",
+        "colour": "#ffffff",
+        "text_type": "heading",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 1,
+      "padding": 15,
+      "order": 14,
+      "medias": [
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3019/198117.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.50059,
+          "width": 1280,
+          "height": 853,
+          "order": 0
+        }
+      ]
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 15
+    },
+    {
+      "content_type": 2,
+      "padding": 45,
+      "order": 16,
+      "text": {
+        "size": 16,
+        "text": "The huge success of craft beer breweries has shown that people appreciate local products, smaller batches, traditional techniques and low intervention - so the benefits of sour beer are obvious: people are in it for the flavour, plain and simple.\n\nAs for wild beer, Sam imagines most brewers enjoy the experimental aspects of the process. Some beers will never be repeated; some could end up tasting like garbage; and some require a slow, painstaking process. As with sherry, a few lines are barrel aged for three or more months, then blended back together with batches of various ages. This creates an even richer flavour, hitting all the high and low notes in one gulp, but can take years. 'It’s a real labour of love,' he says. No kidding.",
+        "style": "normal",
+        "colour": "#A3A3A3",
+        "text_type": "paragraph",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 17
+    },
+    {
+      "content_type": 1,
+      "padding": 15,
+      "order": 18,
+      "medias": [
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3019/198158.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.5,
+          "width": 1080,
+          "height": 720,
+          "order": 0
+        },
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3019/198119.jpg",
+          "base64": "/9j/4AAQSkZJRgABAQEASABIAAD/2wBDACgcHiMeGSgjISMtKygwPGRBPDc3PHtYXUlkkYCZlo+AjIqgtObDoKrarYqMyP/L2u71////m8H////6/+b9//j/2wBDASstLTw1PHZBQXb4pYyl+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj/wAARCABhAJYDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAMBAgQFBv/EADEQAAEEAAQEBQMEAgMAAAAAAAEAAgMRBBIhMSJBUXETMmGBkQUjQhQzUvChsUOS8f/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAbEQEAAgMBAQAAAAAAAAAAAAAAARECITFBEv/aAAwDAQACEQMRAD8A7FotURZQXRapaLKCxKLVUWgshQoQShRaEElRajMCSL1G4UqoLUqhe0OouANXqqOxELd5AgcopZHfUYGv0fYrYdVQ/UwfJE4+yFtyFzzjcS7yw13VDLjH/k1qDp0hcaCV0j3CZ7zQ0yhCLt1ppBHGXeiwzY6nN0sdbqtVTHYxhBjiOYVR9Fyi8nnuoOxDjwXAVu//AAt7HB4J00NLzDZC0iq0NrbHjZmxktc1ovkEHcQSBuQO64DsXM8cUrz6JZeXgAvJN66pcDvunhb5pGj3SnY/DD877Bc/CRxOBJAcfVawxo2AQWP1Fv4RPd7KhxmId5YAO5V6HRBc0bkDuUQnxMW4k2xpPRQY8Q/zzn2CYcRC3eVnyqHGYcf8gPYFUR+lB8z3n3WN8QEzmjYLU76hANsx9kiN/wComc5gOpoWpPGsY2bhYwHGxyWvKP77rnmd8UgDGtOYblPzYp480YB6NtSyY21aXy/pQBp/fVYW4WRhsSZT1aKUmF354h//AGpW0ThtJ39ghRExschyOzab3aFLarTDIeJULRkzA69FeZuWRzehSz5PXMjKAmbAAJV62mGiBogOii1B3UIHRSvjJyOq1q+65ouV+p6rFELkaN7K1CQlxGoymqNboVakjXeK5pc4gdSoijB3Fpt2bO6kKfUNfEkPjp7aHRSGHi4Tt0WhQQDoU+icKhlMb8h4eibhmlrCDob6q0bnmBzxlGXamhTGbjDjubJ+VcuGHS5R9xtdFV0kgoZ3fKY/WVvYqjxqEjhl0pznHck+6W5McNUt42VZbMCaYe5QqYM/bPdCxLrHFsSwOkcTfm5LM9tMHSytsn7kjtKDq17JYDfCDSQQToteOdXLOyIvBI5JhiygV/lP8Hw4CQ4AN51uVnzOJOt1vSi6JdugNtNLA9zfDs2BemoQ4BnIjXmqlBrixzSCMwPNWa8uc4kgk9FcQ/aLiKdel8x6JQBaddLTxfTgVYJYDqBo1dWr7Glh0WRdalVtBcMps0KSOk8RGWCIszuIO9BXjoMAHK90lgyiyeFOhlOQmhxaahby45YdVkdTwfRVc7MAarVEp4gPQqgFsbxVfK0ji5dQTYvklyDQFXcWt4VWTyKsnYT9om+aFf6c6IRv8UE66UhYmNukTooBzvMDf8lqjyjCODg0nXUpxiY7cApT42se3KG77m1bZpSR/wBpga6hVCzSVK1gbTQLrcdVGIaHvBGauZQ8jIyjZ63skEjBy5LbdElOdM0m3EOINgb6rECRmKdhoy+Ujh037LTK0xFtDb0GtpMpLZKJohSRktvQkKJLcc5G+nwosnsnP6cxksDXG9btREdiLkPIAFSMM4xtNkCulqoJjB1cBVaaJ1YmoUc8+LxsLb0I20TK5ZXbdUSQOkd4hLjz11WpkQIBtykkTMFsga6IXd89USRNYS5oDdNADdKxsbjQf6VMS4OcSHVQsDqEav0iQW9oBpXlYPCZR32WsMaRdD4QWMG4Hwlsz1yXbhWc6wR8LqMhieaAb7ik1+GwkUeaRzfZLSnLwnkd3QtvhQuJ8Phb33QpO24moNDD1Sp4ZZBla8BpGo6rSoVZZRBLlolt+lpWIika3Mapo6reLUOYHNpwsdEHJoiIHSj6p+Fs4h5A1pazhoqrJWt6IGHjDswBvuraUzSRDO4vIs26r5K7MOPM4nbkU04aImyLPqUwMFVyUUvLkbTWuqv5DRIL4tWv4XHmd/lajC0/+qow0Q/AfCgiMNczK2SwBSYI7GXNupaxrfK0DsFEhOUgNJsckEHC8JGQn3tVMLHG3NaTt2Sy6Qn9gjXcGv8ASU6LE+IXM0F6WmxrbGGig2grVSTCJwfuEV6J6CEEDmB8KUIKmuiFKEFkIQqAIQhAKEIUEqEIQSEIQgEFCEEKEIQCOaEIJUIQgEIQg//Z",
+          "aspect_ratio": 1.5534,
+          "width": 640,
+          "height": 412,
+          "order": 1
+        }
+      ]
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 19
+    },
+    {
+      "content_type": 2,
+      "padding": 45,
+      "order": 20,
+      "text": {
+        "size": 16,
+        "text": "All this being said, taste is the clincher. These organic techniques and breathable barrels enhance and vary the microbial life, and happy yeasts and friendly bacteria produce more complex and subtle flavours - which means you don’t get palate fatigue (which sounds like a first world problem if ever we heard one). All this means you can drink the beers for longer, pair them with food, even serve them with deserts; and they make for prime summer drinking. Much like natural wine, the flavour potential, though risky, seems to keep brewers coming back for more.",
+        "style": "normal",
+        "colour": "#A3A3A3",
+        "text_type": "paragraph",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 21
+    },
+    {
+      "content_type": 2,
+      "padding": 35,
+      "order": 22,
+      "text": {
+        "size": 20,
+        "text": "The verdict…",
+        "style": "semi-bold",
+        "colour": "#ffffff",
+        "text_type": "heading",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 1,
+      "padding": 15,
+      "order": 23,
+      "medias": [
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3019/198120.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.50059,
+          "width": 1280,
+          "height": 853,
+          "order": 0
+        }
+      ]
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 24
+    },
+    {
+      "content_type": 2,
+      "padding": 45,
+      "order": 25,
+      "text": {
+        "size": 16,
+        "text": "Sam lined up the bevvies and we got stuck into beers from both sides of the brewery. The fresh beers (from their core lines) all had very strong and clean recognisable flavours, some were very hoppy and others real mellow, but the wild beers really dazzled. The two we tried were sour as well as wild - both boxes well and truly ticked. We were half expecting our salivary glands to go into overdrive - sour jawbreaker style - but the flavours were much more subtle. First we tried Entomb, an amphora gose which immediately tasted more grown up with its wine-like texture, slight sourness and lingering coriander-seed flavour.",
+        "style": "normal",
+        "colour": "#A3A3A3",
+        "text_type": "paragraph",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 26
+    },
+    {
+      "content_type": 1,
+      "padding": 15,
+      "order": 27,
+      "medias": [
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3019/198121.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.50059,
+          "width": 1280,
+          "height": 853,
+          "order": 0
+        }
+      ]
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 28
+    },
+    {
+      "content_type": 2,
+      "padding": 25,
+      "order": 29,
+      "text": {
+        "size": 16,
+        "text": "Next we tested a saison beer - a style originally brewed as a job perk to bribe French workers into staying on the farm. This one, Breed, was only faintly sour, quite floral and fruity. It had a pleasant kind of mustiness with a hint of that live fermentation fizz you get with some natural wines or kombucha. There was all sorts going on in our mouths. We wanted more. \n\nAll in all, though wild beers don’t make as much business sense (they’re time consuming, more risky, and made in small batches, they’re a heck of a lot more fun for both brewers and drinkers. Win bloody win. Cheers.",
+        "style": "normal",
+        "colour": "#A3A3A3",
+        "text_type": "paragraph",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 10,
+      "padding": 45,
+      "order": 30,
+      "text": {
+        "size": 14,
+        "text": "Beavertown Brewery Taproom",
+        "style": "semi-bold",
+        "colour": "#ffffff",
+        "text_type": "link",
+        "uppercase": true
+      },
+      "action": {
+        "name": "Beavertown Brewery",
+        "type": "listing",
+        "item_id": "5715781414b853644ae9bd74"
+      }
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 31
+    }
+  ]
+}

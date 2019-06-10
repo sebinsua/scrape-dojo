@@ -1,0 +1,1641 @@
+{
+  "id": "5c4b1ab02e95a945c34f10a8",
+  "name": "The Beginner's Guide to Meditation",
+  "slug": "the-beginners-guide-to-meditation-london",
+  "followed": false,
+  "city_id": "LON",
+  "contents": [
+    {
+      "content_type": 1,
+      "padding": 15,
+      "order": 0,
+      "medias": [
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3539/251831.jpg",
+          "base64": "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",
+          "aspect_ratio": 1,
+          "width": 527,
+          "height": 340,
+          "order": 0
+        }
+      ]
+    },
+    {
+      "content_type": 2,
+      "padding": 15,
+      "order": 1,
+      "text": {
+        "size": 25,
+        "text": "The Beginner's Guide to Meditation",
+        "style": "light",
+        "colour": "#ffffff",
+        "text_type": "title",
+        "uppercase": false
+      },
+      "follow_button": true
+    },
+    {
+      "content_type": 2,
+      "padding": 45,
+      "order": 2,
+      "text": {
+        "size": 16,
+        "text": "So you want to try meditation but you’re not sure of the hows, wheres, whys, whos and whats of the thing. So far the closest you’ve come is calmly closing your eyes and waiting in silence for iPlayer to load on your smart TV. \n\nWell, there happens to be a host of drop-in classes, largely at altruistically-minded Buddhist centres, where you can dip your toes in the gently lapping water and see if it's for you without having to shell out £15k for a course. They say you can't put a price on peace of mind, but we've found that's not true.",
+        "style": "normal",
+        "colour": "#A3A3A3",
+        "text_type": "paragraph",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 3
+    },
+    {
+      "content_type": 5,
+      "padding": 15,
+      "order": 4,
+      "listing": {
+        "id": "5c49aba1162775726df6a7e9",
+        "type": "Venue",
+        "author": 6,
+        "name": "London Buddhist Centre",
+        "published": true,
+        "subtitle": "A Temple of Calm",
+        "coordinates": {
+          "lat": 51.528022582239785,
+          "lng": -0.05130150000002054
+        },
+        "phone": "020 8981 1225",
+        "website": "https://www.lbc.org.uk",
+        "station": "Bethnal Green",
+        "rating": null,
+        "address": {
+          "line1": "51 Roman Road",
+          "line2": "",
+          "postcode": "E2 0HU",
+          "city": "LON"
+        },
+        "pretty_url": "www.lbc.org.uk",
+        "price_rating": -1,
+        "times": {
+          "hours": {
+            "0": [],
+            "1": [
+              {
+                "open": "10:00:00",
+                "close": "17:00:00",
+                "overnight": false
+              }
+            ],
+            "2": [
+              {
+                "open": "10:00:00",
+                "close": "17:00:00",
+                "overnight": false
+              }
+            ],
+            "3": [
+              {
+                "open": "10:00:00",
+                "close": "17:00:00",
+                "overnight": false
+              }
+            ],
+            "4": [
+              {
+                "open": "10:00:00",
+                "close": "17:00:00",
+                "overnight": false
+              }
+            ],
+            "5": [
+              {
+                "open": "10:00:00",
+                "close": "17:00:00",
+                "overnight": false
+              }
+            ],
+            "6": [
+              {
+                "open": "10:00:00",
+                "close": "17:00:00",
+                "overnight": false
+              }
+            ]
+          },
+          "open_days": {
+            "0": true,
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true
+          }
+        },
+        "medias": [
+          {
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "link": "https://d3vdw1xqmo272m.cloudfront.net/listing/29978/251219.jpg",
+            "base64": "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",
+            "aspect_ratio": 1.67594,
+            "width": 1024,
+            "height": 611,
+            "order": 0
+          },
+          {
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "link": "https://d3vdw1xqmo272m.cloudfront.net/listing/29978/251220.jpg",
+            "base64": "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",
+            "aspect_ratio": 1.5,
+            "width": 1500,
+            "height": 1000,
+            "order": 1
+          },
+          {
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "link": "https://d3vdw1xqmo272m.cloudfront.net/listing/29978/251221.jpg",
+            "base64": "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",
+            "aspect_ratio": 1.5,
+            "width": 1500,
+            "height": 1000,
+            "order": 2
+          },
+          {
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "link": "https://d3vdw1xqmo272m.cloudfront.net/listing/29978/251222.jpg",
+            "base64": "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",
+            "aspect_ratio": 1.50628,
+            "width": 1800,
+            "height": 1195,
+            "order": 3
+          }
+        ],
+        "collection_ids": [],
+        "listingContext_id": "5c49aba2001090726d60997d",
+        "slug": "london-buddhist-centre-e2-0hu-lon",
+        "tip": {
+          "text": "Since 1978, a time when the mind had no idea how full it could really be, London Buddhist Centre has been aligning the practice of Buddhism with the general rough and tumble of city living. At their Bethnal Green temple, in a disused fire station, they’ve built up a thriving Buddhist community with drop in meditation classes, yoga and a veggie cafe. <br/><br/>These classes, taking place in the afternoon and on some evenings, are often free but encourage a donation, so please do give a few bucks, because this is a nourishing, important community space. It is, and always will be, a place that’s open for all - with no expectation of Buddhist involvement. ",
+          "language_id": "en"
+        },
+        "language_id": "en",
+        "review": null
+      },
+      "medias": [
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3539/251756.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.33333,
+          "width": 1500,
+          "height": 1000,
+          "order": 0
+        },
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3539/251757.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.33333,
+          "width": 1024,
+          "height": 611,
+          "order": 1
+        },
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3539/251758.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.33333,
+          "width": 1500,
+          "height": 1000,
+          "order": 2
+        },
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3539/251759.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.33333,
+          "width": 1800,
+          "height": 1195,
+          "order": 3
+        }
+      ]
+    },
+    {
+      "content_type": 2,
+      "padding": 45,
+      "order": 5,
+      "text": {
+        "size": 16,
+        "text": "Since 1978, a time when the mind had no idea how full it could really get, London Buddhist Centre has been aligning the practice of Buddhism with the general rough and tumble of city living. At their Bethnal Green temple, in a disused fire station, they’ve built up a thriving Buddhist community with drop in meditation classes, yoga and a veggie cafe. \n\nTheir drop-in classes happen every lunchtime between 1pm-2pm and on Tuesday and Wednesday evenings between 7.45pm-9.30pm. They're donation led, and plz do shell out a few bucks if you can to keep this nourishing venue going strong.",
+        "style": "normal",
+        "colour": "#A3A3A3",
+        "text_type": "paragraph",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 6
+    },
+    {
+      "content_type": 5,
+      "padding": 15,
+      "order": 7,
+      "listing": {
+        "id": "5715780167ec3c643d09e6ed",
+        "type": "Venue",
+        "author": null,
+        "name": "Inner Space",
+        "published": true,
+        "subtitle": "Meditation & Personal Development",
+        "coordinates": {
+          "lat": 51.5145606,
+          "lng": -0.1251968
+        },
+        "phone": "020 7836 6688",
+        "website": "http://innerspace.org.uk",
+        "station": "Covent Garden",
+        "rating": null,
+        "address": {
+          "line1": "36 Shorts Gardens",
+          "line2": "London",
+          "postcode": "wc2h 9ab",
+          "city": "London"
+        },
+        "pretty_url": "innerspace.org.uk",
+        "price_rating": 0,
+        "mongo_id": "5501b1658ef0b4eccc418575",
+        "times": {
+          "hours": {
+            "0": [],
+            "1": [
+              {
+                "open": "10:30:00",
+                "close": "18:00:00",
+                "overnight": false
+              }
+            ],
+            "2": [
+              {
+                "open": "10:30:00",
+                "close": "18:00:00",
+                "overnight": false
+              }
+            ],
+            "3": [
+              {
+                "open": "10:30:00",
+                "close": "18:00:00",
+                "overnight": false
+              }
+            ],
+            "4": [
+              {
+                "open": "10:30:00",
+                "close": "18:00:00",
+                "overnight": false
+              }
+            ],
+            "5": [
+              {
+                "open": "10:30:00",
+                "close": "17:00:00",
+                "overnight": false
+              }
+            ],
+            "6": [
+              {
+                "open": "10:30:00",
+                "close": "18:00:00",
+                "overnight": false
+              }
+            ]
+          },
+          "open_days": {
+            "0": false,
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true
+          }
+        },
+        "medias": [
+          {
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "link": "https://d3vdw1xqmo272m.cloudfront.net/listing/9457/57157801f597c4643df1c91d.jpg",
+            "base64": "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",
+            "aspect_ratio": 0.672222,
+            "width": 726,
+            "height": 1080,
+            "order": 0,
+            "front_image": true
+          }
+        ],
+        "collection_ids": [],
+        "listingContext_id": "5715780153c20c643d404717",
+        "slug": "inner-space-wc2h-9ab-london",
+        "tip": {
+          "text": "We didn't think anything in Covent Garden could be described as \"London’s oasis of calm and insight\", but Inner Space is a welcome surprise. As a meditation and personal development centre, it welcomes people who are feeling a bit burned out or who want to learn new techniques in relaxation and head clearing. <br/><br/>There are guided classes on improving self-esteem, thinking more positively, managing time and lunchtime and evening meditation sessions. All sessions and activities are free, but they welcome donations. We'd really love to see more places like this.",
+          "language_id": "en"
+        },
+        "language_id": "en",
+        "review": null
+      },
+      "medias": [
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3539/251760.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.33333,
+          "width": 726,
+          "height": 1080,
+          "order": 100
+        }
+      ]
+    },
+    {
+      "content_type": 2,
+      "padding": 45,
+      "order": 8,
+      "text": {
+        "size": 16,
+        "text": "We didn't think anything in Covent Garden could be described as \"London’s oasis of calm and insight\", but Inner Space is a welcome surprise. As a meditation and personal development centre, it welcomes people who are feeling a bit burned out or who want to learn new techniques in relaxation and head clearing. \n\nThey put on guided classes on improving self-esteem, thinking more positively and managing time. But for meditation, it's half hour slots on Wednesday & Friday lunchtimes at 1pm; and Friday evening at 6.30pm. It's all free, but donations are welcome.",
+        "style": "normal",
+        "colour": "#A3A3A3",
+        "text_type": "paragraph",
+        "uppercase": false
+      }
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 9
+    },
+    {
+      "content_type": 5,
+      "padding": 15,
+      "order": 10,
+      "listing": {
+        "id": "5c6c267a0056aa518e16e0fd",
+        "type": "Venue",
+        "author": 6,
+        "name": "School of Meditation",
+        "published": true,
+        "subtitle": "Slow Down",
+        "coordinates": {
+          "lat": 51.5057617,
+          "lng": -0.2122943
+        },
+        "phone": "020 7603 6116",
+        "website": "https://www.schoolofmeditation.org/",
+        "station": "Holland Park",
+        "rating": null,
+        "address": {
+          "line1": "158 Holland Park Avenue",
+          "line2": "",
+          "postcode": "W11 4UH",
+          "city": "LON"
+        },
+        "pretty_url": "www.schoolofmeditation.org",
+        "price_rating": -1,
+        "times": {
+          "hours": {
+            "0": [
+              {
+                "open": "12:00:00",
+                "close": "17:00:00",
+                "overnight": false
+              }
+            ],
+            "1": [
+              {
+                "open": "10:00:00",
+                "close": "16:00:00",
+                "overnight": false
+              },
+              {
+                "open": "18:30:00",
+                "close": "21:30:00",
+                "overnight": false
+              }
+            ],
+            "2": [
+              {
+                "open": "10:00:00",
+                "close": "16:00:00",
+                "overnight": false
+              },
+              {
+                "open": "18:30:00",
+                "close": "21:30:00",
+                "overnight": false
+              }
+            ],
+            "3": [
+              {
+                "open": "10:00:00",
+                "close": "16:00:00",
+                "overnight": false
+              },
+              {
+                "open": "18:30:00",
+                "close": "21:30:00",
+                "overnight": false
+              }
+            ],
+            "4": [
+              {
+                "open": "10:00:00",
+                "close": "16:00:00",
+                "overnight": false
+              },
+              {
+                "open": "18:30:00",
+                "close": "21:30:00",
+                "overnight": false
+              }
+            ],
+            "5": [
+              {
+                "open": "10:00:00",
+                "close": "16:00:00",
+                "overnight": false
+              },
+              {
+                "open": "18:30:00",
+                "close": "21:30:00",
+                "overnight": false
+              }
+            ],
+            "6": [
+              {
+                "open": "10:00:00",
+                "close": "17:00:00",
+                "overnight": false
+              }
+            ]
+          },
+          "open_days": {
+            "0": true,
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true
+          }
+        },
+        "medias": [
+          {
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "link": "https://d3vdw1xqmo272m.cloudfront.net/listing/30307/256475.jpg",
+            "base64": "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",
+            "aspect_ratio": 1.84118,
+            "width": 1252,
+            "height": 680,
+            "order": 0,
+            "front_image": true
+          },
+          {
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "link": "https://d3vdw1xqmo272m.cloudfront.net/listing/30307/256476.jpg",
+            "base64": "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",
+            "aspect_ratio": 1.33333,
+            "width": 960,
+            "height": 720,
+            "order": 1
+          }
+        ],
+        "collection_ids": [],
+        "listingContext_id": "5c6c267bc14081518e5b798f",
+        "slug": "school-of-meditation-w11-4uh-lon",
+        "tip": {
+          "text": "Back in 1961, when meditation was still viewed with all kinds of scepticism and mistrust, the School of Meditation was set up in an airy, comfortable and fairly grandiose West London town house. Oh, they were ahead of the curve alright, and they've been offering meditation classes ever since, devoting the space to the learning, enjoying and sharing of meditation. There are four-week introductory courses here, one-on-one tutoring and £5 taster classes that happen on Tuesday and Thursday evenings. ",
+          "language_id": "en"
+        },
+        "language_id": "en",
+        "review": null
+      },
+      "medias": [
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3539/256552.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.33333,
+          "width": 960,
+          "height": 720,
+          "order": 0
+        },
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3539/256553.jpg",
+          "base64": "/9j/4AAQSkZJRgABAQEASABIAAD/2wBDACgcHiMeGSgjISMtKygwPGRBPDc3PHtYXUlkkYCZlo+AjIqgtObDoKrarYqMyP/L2u71////m8H////6/+b9//j/2wBDASstLTw1PHZBQXb4pYyl+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj/wAARCABRAJYDAREAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAwQBAgUABv/EADgQAAEDAgMFBgMHBAMAAAAAAAEAAhEDIQQSMSJBUWGRBRMUUnGBcqHBJDIzNEJDsSNiktFj4fD/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQID/8QAHhEBAQEBAAICAwAAAAAAAAAAAAERAhIxITIDUYH/2gAMAwEAAhEDEQA/AHu8qOYDsDqUFMQ0vpwXAkaQFKM85hYm6yjpPFA5hWQNoTwWopoBo0Z8gqA4kBzbiIUoThYHQgbwoGXZ95WoD1ahpsmJvEKgDsWCI7oH1cpooa4m1FnVNHeI/wCKn1TR3iSP22dU0T4t5/SzqU0NNMtEuvG4rQG8AgmdOaBFzZMgQFkMtIyA5Zk2srETWdlpzludEoUFMkyVnBcUVcB8KHNJZ7qwMwePyVUCu1znBs21KzRQUEwWFFME06ZZVHA2KYCVmBzCDMK0KQ3ynosiJZ5fmg6W+T5oIBaTAYgsAJGxHqFQ41zY1atCKmVzSAQoBEMbZzmg8yqKseS1jonhdRBHtLozQgUrYg0auTKDwQCPaBgkAdEGlRBLWu0JaCqosHzFBUja4qDLqYmqyo9snZneogfjKhZmki8aq4NWjehTLt7QSirEM5IL5QgzaoyVCFz6dePSkngst5BcKM1UHgVvly79nyBGi6MKj4T0UEkyND0VGT2sPtDDxb9UBMM57nC49VmMw+1sDUlaUjiw3xTJmY+qgzyWd1Zpu7jyQegYGhjQ6NBqqq0s5dFB1tyDIxRy1qpgan+ECmf+iNhp2juPBEego2oUvhGnoqq5PIqCQLSqMnH1qlLEQwiC2biVGpNKnF1vMP8AEIvid7NqOqlxeZII3QjNmNI6buqqKyfL81B0nh81RmdrA56RHAoK4YjNosxmNFhblstNE8TtV8waTAgQVnYmwp3GxHdGx84v8k8omxrsqw4giw4J5fK6h+LDXENEqXr9JajxbYl0TwCk6PIlWqghz2hpmd54LUurChrnuZytIzEanh6qq3KL/s9MmJyieiaOfWyuFrHms3rE1SA+qHB1xuVllGf2p+Zb8P1VdePRE6KNNHsn9z1Crn0fZTyvLpuUZX2uA6oO2uAVGb2xIbSIPH6IB4RxBJMmyjIxq1LwCBCyF6lcZjqeYUxMVzgm3tdMMFpvdUrtDiYOsK5FxauW0ahp5pOo/wBJhgVMszS8k8IQXqk5HGnI1010VliwCg4lgzlxAcd/IJb8fBaZ79tsp5QueMOc9rh94pB1Ev8AENDSSCbrSxHag+0M+D6rTvx6JRbnwRo92WL1J3Qqx01EYRtcQg7a5KjO7Y/BpH+4/wAIF6Ti2LhRBq7iKLC28yJGgQDpspveczpc4Wy/9oDNwVGdqqY3DMJCYDmnTe8lpAIN3Qf5TDCWJp1ajwc4dfKNqUFWUarWyWRJykhTDBDnpOyvIjiFmxnFXPNYtp08sn0CsgvRwtVzLNZBOpVaxXE0n0GgwwyblvHgmGLYKfEDMzRRHdq/js+H6qu3HomXyyMo9UxcO9la1PZVnppuBLSAYO4qsFHVqog2gg9UBcO5z2EufN+CBXtOXsYxrSSDMxZAjh2GptEnVRBiD3LgDa0qqGxzahjJljeP/aKIbpUab2uzMEgkG8jRVVQ1r64mRRiBeASgK+kzIA9ziBBgm070A2UaT2iSRINmmBqoJr4QAzTdsbwb2QUp4FpgioSRFiEB24cMa4F5IM8vRAriqRY0uaRlkCOaIPg27TiYWYQPtS9anf8AT9Vp149EY5qNHuyzD6l9wVY6aZI4jqjDPxgylsusST/tUEwjy2iImJMRCA3fHdTcfcIMjD2abkXURNB+VxBMi0+yovVHdS4C029dUVcs7sNzkuNyQdJjgoiA8lsGwFoHVBEh1yY4koJbWILWs3b0DDcxaQ5x8tjwug7NlOYEi+bqipNTMCS43cDrwQDfTNVhaDvBuUDFNhaN3VMRSth3VambO2IgAiUxqXFPBnzs/wAUw8qJQw5pVA7O2N4AiUxLdMlw3QrgVxVM1IMtgTqmCtBlXuQ0PIiHCLqBymS5z21Mri2IOWNQtDIb3babh+oi0HRZQOnTGaQ+3LehqxZm2W1M1+Cmqk96+zYdG4BXRRorU3EmnJO8goZUOe7e0853oIa45rAiUQw11VoFgPcpq4rUL3tLSLcimmKkuzN4DmoYdwskOzARMaqxDQDY0HVUds+UdUE7O8IOOXyoIlvBUUqFoYbDQ70AKdcMyhwykgXGizqj0qrXVapkCcv8KjHraqBnCaD4Ssd+kgNP7zvRavpv8P3hnCfj+xWTr6z+jj837qxrn6Uy/VGEtQXVA6mqgFV/DKCGfdViCfslUUCqOQcUFdyC9T8mfdRqEv2z6KCaP3qnslR//9k=",
+          "aspect_ratio": 1.33333,
+          "width": 1252,
+          "height": 680,
+          "order": 1
+        }
+      ]
+    },
+    {
+      "content_type": 2,
+      "padding": 45,
+      "order": 11,
+      "text": {
+        "size": 16,
+        "text": "Back in 1961, when meditation was still viewed with all kinds of scepticism and mistrust, the School of Meditation was set up in an airy, comfortable and fairly grandiose West London town house. Oh, they were ahead of the curve alright, and they've been offering meditation classes ever since, devoting the space to the learning, enjoying and sharing of meditation. There are four-week introductory courses here, one-on-one tutoring and £5 taster classes that happen on Tuesday and Thursday evenings. ",
+        "style": "normal",
+        "colour": "#A3A3A3",
+        "text_type": "paragraph",
+        "uppercase": false
+      }
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 12
+    },
+    {
+      "content_type": 5,
+      "padding": 15,
+      "order": 13,
+      "listing": {
+        "id": "58b42b4049e16317105b43c2",
+        "type": "Venue",
+        "author": 7,
+        "name": "Kagyu Samye Dzong",
+        "published": true,
+        "subtitle": "Buddhist Centre",
+        "coordinates": {
+          "lat": 51.49568190000003,
+          "lng": -0.07544753757327216
+        },
+        "phone": "020 3327 1650",
+        "website": "http://www.london.samye.org/",
+        "station": "Bermondsey",
+        "rating": null,
+        "address": {
+          "line1": "15 Spa Rd",
+          "line2": "",
+          "postcode": "SE16 3SA",
+          "city": "London"
+        },
+        "pretty_url": "www.london.samye.org",
+        "price_rating": -1,
+        "times": {
+          "hours": {
+            "0": [
+              {
+                "open": "09:00:00",
+                "close": "21:00:00",
+                "overnight": false
+              }
+            ],
+            "1": [],
+            "2": [],
+            "3": [
+              {
+                "open": "09:00:00",
+                "close": "21:00:00",
+                "overnight": false
+              }
+            ],
+            "4": [
+              {
+                "open": "09:00:00",
+                "close": "21:00:00",
+                "overnight": false
+              }
+            ],
+            "5": [
+              {
+                "open": "09:00:00",
+                "close": "21:00:00",
+                "overnight": false
+              }
+            ],
+            "6": [
+              {
+                "open": "09:00:00",
+                "close": "21:00:00",
+                "overnight": false
+              }
+            ]
+          },
+          "open_days": {
+            "0": true,
+            "1": false,
+            "2": false,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true
+          }
+        },
+        "medias": [
+          {
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "link": "https://d3vdw1xqmo272m.cloudfront.net/listing/18274/93976.jpg",
+            "base64": "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",
+            "aspect_ratio": 1.33333,
+            "width": 1024,
+            "height": 768,
+            "order": 0,
+            "front_image": true
+          },
+          {
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "link": "https://d3vdw1xqmo272m.cloudfront.net/listing/18274/93977.jpg",
+            "base64": "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",
+            "aspect_ratio": 1.55,
+            "width": 527,
+            "height": 340,
+            "order": 1
+          },
+          {
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "link": "https://d3vdw1xqmo272m.cloudfront.net/listing/18274/93978.jpg",
+            "base64": "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",
+            "aspect_ratio": 1.47059,
+            "width": 600,
+            "height": 408,
+            "order": 2
+          }
+        ],
+        "collection_ids": [],
+        "listingContext_id": "58b42b40988463171088bac1",
+        "slug": "kagyu-samye-dzong-se16-3sa-london",
+        "tip": {
+          "text": "This beautiful Tibetan Buddhist centre in Bermondsey offers heaps of classes and courses for scurrying rat racers, ranging from the importance of ethics, to an introduction to meditation, and training in lucid dreaming. While many of the courses are rooted in traditional Tibetan Buddhism, they do also offer classes like ‘Stress Less’ - a course which responds to the stress experienced by people living in big cities. They believe that commuting, media harassment and advertising for hair loss serums on the tube is making us all silly in the brain - learn to let it all go here. ",
+          "language_id": "en"
+        },
+        "language_id": "en",
+        "review": null
+      },
+      "medias": [
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3539/251761.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.33333,
+          "width": 527,
+          "height": 340,
+          "order": 0
+        },
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3539/251762.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.33333,
+          "width": 1024,
+          "height": 768,
+          "order": 1
+        },
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3539/251763.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.33333,
+          "width": 600,
+          "height": 408,
+          "order": 2
+        }
+      ]
+    },
+    {
+      "content_type": 2,
+      "padding": 45,
+      "order": 14,
+      "text": {
+        "size": 16,
+        "text": "This beautiful Tibetan Buddhist centre in Bermondsey offers heaps of classes and courses for scurrying rat racers, ranging from the importance of ethics, to an introduction to meditation, and training in lucid dreaming.  They believe that commuting, media harassment and advertising for hair loss serums on the tube is making us all silly in the brain and yeah, they might be onto something. \n\nTheir free intro to meditation involves a three week beginner course taking place one evening per week.",
+        "style": "normal",
+        "colour": "#A3A3A3",
+        "text_type": "paragraph",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 15
+    },
+    {
+      "content_type": 5,
+      "padding": 15,
+      "order": 16,
+      "listing": {
+        "id": "5c49adcd4d3a040ff438359c",
+        "type": "Venue",
+        "author": 6,
+        "name": "West London Buddhist Centre",
+        "published": true,
+        "subtitle": "Meditation & Learning",
+        "coordinates": {
+          "lat": 51.51741621689618,
+          "lng": -0.18865673383368753
+        },
+        "phone": "020 7727 9382",
+        "website": "http://westlondonbuddhistcentre.com/",
+        "station": "Royal Oak",
+        "rating": null,
+        "address": {
+          "line1": "Royal Oak House",
+          "line2": "45A Porchester Rd",
+          "postcode": "W2 5DP",
+          "city": "LON"
+        },
+        "pretty_url": "westlondonbuddhistcentre.com",
+        "price_rating": -1,
+        "times": {
+          "hours": {
+            "0": [],
+            "1": [
+              {
+                "open": "10:30:00",
+                "close": "14:30:00",
+                "overnight": false
+              },
+              {
+                "open": "16:00:00",
+                "close": "19:00:00",
+                "overnight": false
+              }
+            ],
+            "2": [
+              {
+                "open": "10:30:00",
+                "close": "14:30:00",
+                "overnight": false
+              },
+              {
+                "open": "16:00:00",
+                "close": "19:00:00",
+                "overnight": false
+              }
+            ],
+            "3": [
+              {
+                "open": "10:30:00",
+                "close": "14:30:00",
+                "overnight": false
+              },
+              {
+                "open": "16:00:00",
+                "close": "19:00:00",
+                "overnight": false
+              }
+            ],
+            "4": [
+              {
+                "open": "10:30:00",
+                "close": "14:30:00",
+                "overnight": false
+              },
+              {
+                "open": "16:00:00",
+                "close": "19:00:00",
+                "overnight": false
+              }
+            ],
+            "5": [
+              {
+                "open": "10:30:00",
+                "close": "14:30:00",
+                "overnight": false
+              },
+              {
+                "open": "16:00:00",
+                "close": "19:00:00",
+                "overnight": false
+              }
+            ],
+            "6": [
+              {
+                "open": "09:30:00",
+                "close": "14:30:00",
+                "overnight": false
+              }
+            ]
+          },
+          "open_days": {
+            "0": true,
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true
+          }
+        },
+        "medias": [
+          {
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "link": "https://d3vdw1xqmo272m.cloudfront.net/listing/29979/251223.jpg",
+            "base64": "/9j/4AAQSkZJRgABAQEASABIAAD/2wBDACgcHiMeGSgjISMtKygwPGRBPDc3PHtYXUlkkYCZlo+AjIqgtObDoKrarYqMyP/L2u71////m8H////6/+b9//j/2wBDASstLTw1PHZBQXb4pYyl+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj/wAARCABwAJYDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAQIDAAT/xAAxEAACAgEDAgQFAwMFAAAAAAAAAQIRIQMSMUFRBBMicTJhcoHBQlKRobHwIzRTotH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAaEQEBAQADAQAAAAAAAAAAAAAAARECITES/9oADAMBAAIRAxEAPwDnNQQkASGNQSKFBowQBQUjDIoFBoZGAFGoajUAtGoajUECjUGg0wFo1DU+xqfZlC0YLvszAc6QyQUhkiKWjUPtNtIECkFpoK9iKFDKI2Vyv5GirGhdpqKUYoSjUPRqCFo20ajcIqAojxgJcuxSDzl2ZvOeNfNUhpJq28FElH5YAm9i9icn6vlXBfUPOTWF/cxO0utL5dTDDXKodmBqnQ8ZLrGS+xOerHzEl1LQw0Y26FTXcvofGiKSem0ngmkdPi5bY49iCRMDzm9SW6XIPMjpr1RbvsZIv4eld1yByrxbm56UNPCafzL6MZzVyhtLam9akXGttPd+AacrbyMunWN5VAnCEUs5Y0mR1XhZLtRWEYtWMtu20hdODWkpXafQ03UAObUbTyq6m0nchNWTlK2HRfqMydrrrVbV1XsJNVqZa46hu0vbuJKt2E7o2gqTq+UsGBuSXDlXQwRooWCrx0fpf5HiTclDxkW+NvNe5R2viPsc8P8AcS92c8fFSXiZyenqODSSSj2LaepblquMksunyRQ8bx90c0W0CfjY+Ka2QnFLuFZ4JVi8Wmjo0FHO5XnBxpnRoTpZfUQq2t8JLSeGPqSUo8k9J0nkqGkR1uUWZLVWUA0HUUGUrgxV8K9gv4Wk7YHNN5G0fiFlCTeENpRkpepNe5B0rOLtE79beVa79SiSpfJdhZJpvDrbxX+dSoSUvLqWxO/3ZMLN7aa25XDRih/OhD4pVZCep67cnRxw8UlKvLj/AFY09WUkpeXGuOMEV3R1YvizamvDTirbW5c9jh05WtrSor4jSlPa41wAm6XmZdqXDOqDzL5EEpx0KlXI6grlzh9yLBV/9vyap1zi+BUl8+aHjBOLeee4DqGr3/r34NvcXUm1zwFaSp57dScopJ0VFXNLLlKu4uo8y9eUl9hEm1jmgu6lWGqAE5yjGVP9SRW3n1P4iLlL1K0qklx0KPr9VAFN+Ylf6gbm4ctuvwZP/US6Wxdz2XfT8EHToL0u8e4WludPNJckIakoJUw+d625K+5UPqKc0lG9zzwYSWvF/rlDvXcxRwRj6rpWNKO6LXFjJDRqyKhDTafxM74xpxi+iBo6cd1sdyS1gF8VGoklzL3K+JnaoinmXuCJp5X1/k0JRVe7FS9Sz+sEUvT6lywKxnHGOjC2nx+1koxVL1LiQX8PK+BgPJ1GX0f+DylS1G+LX9iTfol9H4QZyqGp9v7AHUazX/Igxm91Xh6rQs5rdL6kikXB3jO/HuTQIztxl7sP6F7fgmqUY12kPfo+34A028CqdNjpN5ax0JyVFQJSvn/GYSVmKGsKlkQKAvGbRlJ77JJhRBXWnuRHc7YWCgpNibvOJbvuGGhpqnn0u1kZIZAL5GnFUt2OM9wLQ0+M8beehQKAC0o1Waa2vPQL04119XIUzNooXyYO27t+rnqMtKKyr53c9TJoa8P2CE8uK6cDJVwa8jWgDGLaBKCzlfyNFk9fQ09b4lUv3ICcoLuv5Mcet4eek8q10aMB/9k=",
+            "aspect_ratio": 1.33571,
+            "width": 1500,
+            "height": 1123,
+            "order": 0
+          },
+          {
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "link": "https://d3vdw1xqmo272m.cloudfront.net/listing/29979/251227.jpg",
+            "base64": "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",
+            "aspect_ratio": 1.24896,
+            "width": 1500,
+            "height": 1201,
+            "order": 1
+          },
+          {
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "link": "https://d3vdw1xqmo272m.cloudfront.net/listing/29979/251226.jpg",
+            "base64": "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",
+            "aspect_ratio": 1.6474,
+            "width": 1140,
+            "height": 692,
+            "order": 2
+          },
+          {
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "link": "https://d3vdw1xqmo272m.cloudfront.net/listing/29979/251225.jpg",
+            "base64": "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",
+            "aspect_ratio": 1.50376,
+            "width": 1200,
+            "height": 798,
+            "order": 3
+          },
+          {
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "link": "https://d3vdw1xqmo272m.cloudfront.net/listing/29979/251224.jpg",
+            "base64": "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",
+            "aspect_ratio": 1.33571,
+            "width": 1500,
+            "height": 1123,
+            "order": 4
+          }
+        ],
+        "collection_ids": [],
+        "listingContext_id": "5c49adcd44a54a0ff4c5a9a3",
+        "slug": "west-london-buddhist-centre-w2-5dp-lon",
+        "tip": {
+          "text": "This is, unofficially, West London's meditation Mecca - a place where city dwellers from all walks of life can be found seeking some solace from the hectic hustle. It's a Buddhist centre and meditation resource and is quite the looker - an architectural blend of traditional dharma with Western aesthetics. <br/><br/>The centre comprises of a reception area for tea and browsing; a yoga studio; a massage treatment room; a library; and meditation rooms where drop-in lunchtime and evening classes happen. It’s a donation operation here and, as it’s run largely by those donations, be generous if you can. It's open to all - even the most regular of Joes, and that includes you.  ",
+          "language_id": "en"
+        },
+        "language_id": "en",
+        "review": null
+      },
+      "medias": [
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3539/251764.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.33333,
+          "width": 1500,
+          "height": 1123,
+          "order": 0
+        },
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3539/251765.jpg",
+          "base64": "/9j/4AAQSkZJRgABAQEASABIAAD/2wBDACgcHiMeGSgjISMtKygwPGRBPDc3PHtYXUlkkYCZlo+AjIqgtObDoKrarYqMyP/L2u71////m8H////6/+b9//j/2wBDASstLTw1PHZBQXb4pYyl+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj/wAARCABwAJYDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAQIDAAT/xAAxEAACAgEDAgQFAwMFAAAAAAAAAQIRIQMSMUFRBBMicTJhcoHBQlKRobHwIzRTotH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAaEQEBAQADAQAAAAAAAAAAAAAAARECITES/9oADAMBAAIRAxEAPwDnNQQkASGNQSKFBowQBQUjDIoFBoZGAFGoajUAtGoajUECjUGg0wFo1DU+xqfZlC0YLvszAc6QyQUhkiKWjUPtNtIECkFpoK9iKFDKI2Vyv5GirGhdpqKUYoSjUPRqCFo20ajcIqAojxgJcuxSDzl2ZvOeNfNUhpJq28FElH5YAm9i9icn6vlXBfUNOTWF/cwlpdaXy6mGGuVQ7MDVOh4yXWMl9ic9WPmJLqWhhoxt0Kmu5fQ+NEUk9NpPBNI6fFy2xx7EEiYHnN6kt0uQeZHTXqi3fYyRfw9K7rkDlXi3Nz0oaeE0/mX0YzmrlDaW1N61IuNbae78A05W2O9OsbyqBOEIpZyxpMjqvCyXaisIxasZbdtpC6cGtJSu0+hpuoAc2o2nlV1NpO5CasnKVsOi/UZk7XXWq2rt7CTVamWuOobtL27k5VuwndG0MpOr5SwYG5JcOVdODBGihYKvHR+l/keJNyUPGRb42817lHa+I+xzw/3EvdnPHxUl4mcnp6jg0kko9iunqW5arjJLLp8kVvG8fdHNFtME/Gx8U1shOKXcKzwSrF4tNHRoKOdyvODjTOjQnSy+ohVtb4SWk8MfUkpR5J6TpPJUNIjrcosyWqsoBoOooMpXBir4V7BfwtJ2wOabyNo/ELKEm8IbSjJS9Sa9yDpWetonfrbyrXfqUSVL5fIWSabw628V/nUqElLy6lsTv92TCze2mtuVwzFD+dCHxSqyE9T125Ojjh4pKVeXH+rGnqyklLy41xxgiu6OrF8WbU14acVba3LnscOnK1taVFfEaUp7XGqoBN0vMy7UuGdUHmXyIJTjoVKuR1BXLnD7kWCr/wC35NU65xfAqS+fNDxgnFvPPcB1DV7/ANe/Bt7i6k2ueArSVPPbqTlFJOioq5pZcpV3sXUeZevKS+wiTaxzQXdSrDVACc5RjKnxJIrbz6n8RFyl6laVSS46FH1+qgCm/MSv9QNzcOW3X4Mn/qJdLYu57Lvp+CDp0F6W3j3C0tzp5pLkhDUlBKmHzvW3JX3Kh9RTmko3ueeDCS14v9cod67mKOCMfVdKxpR3Ra4sZIaNWRUIabT+JnfGNOMX0QNHTjutjuSWsAvio1EkuZe5XxM7VEU8y9wRNPK+v8mhKKr3YqXqWf1gil6fUuWBWM44x0YW0+P2slGKpepcSC/h5XwMB5Ooy+j/AMHlKlqN8Wv7Em/RL6PwgzlUNT7f2AOo1mv+RBjN7qvD1WhZzW6X1JFIuDvGd+PcmgRnbjL3Yf0L2/BNUoxa7SHv0fb8AabeBVOmx0m8vgnJUUCUr5/xmElZioawqWRAoC8ZtGUnvskmFEFdae5EdzthYKCk2JtPOJbvuGGhpqnn0u1kZIZAL5GnFUt2OM9wLQ0+M8beehQKAC0o1Waa2vPQL04119XIUzNooXyYO27t+rnqMtKKyr53c9TJoa8P2CE8uK6cDJVwa8jWgDGLaBKCzlfyNFk9fQ09b4lUv3ICcoLuv5Mcet4eek8xtdGjAf/Z",
+          "aspect_ratio": 1.33333,
+          "width": 1500,
+          "height": 1123,
+          "order": 1
+        },
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3539/251766.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.33333,
+          "width": 1200,
+          "height": 798,
+          "order": 2
+        },
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3539/251767.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.33333,
+          "width": 1140,
+          "height": 692,
+          "order": 3
+        },
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3539/251768.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.33333,
+          "width": 1500,
+          "height": 1201,
+          "order": 4
+        }
+      ]
+    },
+    {
+      "content_type": 2,
+      "padding": 45,
+      "order": 17,
+      "text": {
+        "size": 16,
+        "text": "This is, unofficially, West London's meditation Mecca - a place where city dwellers from all walks of life can be found seeking some solace from the hectic hustle. It's a Buddhist centre and meditation resource and is quite the looker - an architectural blend of traditional dharma with Western aesthetics. \n\nIn terms of meditation drop ins - yes. Yes indeed. That happens at 1pm-2pm every weekday, on Thursdays at 6.30pm-7.30pm and Saturday mornings from 10am-12pm. Donations encouraged, you might have guessed.",
+        "style": "normal",
+        "colour": "#A3A3A3",
+        "text_type": "paragraph",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 18
+    },
+    {
+      "content_type": 5,
+      "padding": 15,
+      "order": 19,
+      "listing": {
+        "id": "571577d90180d2644a567468",
+        "type": "Venue",
+        "author": null,
+        "name": "Jamyang Buddhist Centre",
+        "published": true,
+        "subtitle": "Meditation Classes",
+        "coordinates": {
+          "lat": 51.4917623,
+          "lng": -0.1053691
+        },
+        "phone": "02078208787",
+        "website": "http://www.jamyang.co.uk",
+        "station": "Kennington",
+        "rating": null,
+        "address": {
+          "line1": "The Old Courthouse, 43 Renfrew Road",
+          "line2": "London",
+          "postcode": "SE11 4NA",
+          "city": "London"
+        },
+        "pretty_url": "www.jamyang.co.uk",
+        "price_rating": -1,
+        "mongo_id": "550ebd55f468837639b5b83c",
+        "times": {
+          "hours": {
+            "0": [],
+            "1": [
+              {
+                "open": "13:00:00",
+                "close": "19:00:00",
+                "overnight": false
+              }
+            ],
+            "2": [
+              {
+                "open": "13:00:00",
+                "close": "19:00:00",
+                "overnight": false
+              }
+            ],
+            "3": [
+              {
+                "open": "13:00:00",
+                "close": "19:00:00",
+                "overnight": false
+              }
+            ],
+            "4": [
+              {
+                "open": "13:00:00",
+                "close": "19:00:00",
+                "overnight": false
+              }
+            ],
+            "5": [],
+            "6": []
+          },
+          "open_days": {
+            "0": false,
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": false,
+            "6": false
+          }
+        },
+        "medias": [
+          {
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "link": "https://d3vdw1xqmo272m.cloudfront.net/listing/7945/571577d9e6e50d644a89e610.jpg",
+            "base64": "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",
+            "aspect_ratio": 1.5015,
+            "width": 500,
+            "height": 333,
+            "order": 0,
+            "front_image": true
+          },
+          {
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "link": "https://d3vdw1xqmo272m.cloudfront.net/listing/7945/571577d9c4a984644ae0d2d8.jpg",
+            "base64": "/9j/4AAQSkZJRgABAQEASABIAAD/2wBDACgcHiMeGSgjISMtKygwPGRBPDc3PHtYXUlkkYCZlo+AjIqgtObDoKrarYqMyP/L2u71////m8H////6/+b9//j/2wBDASstLTw1PHZBQXb4pYyl+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj/wAARCABxAJYDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAIDBAEF/8QAOBAAAgIBAwIEAwYFAgcAAAAAAQIAEQMSITEEQRNRYXEiMoEUM0KRocEFFSNSsVOSQ2JjcoKi0f/EABcBAQEBAQAAAAAAAAAAAAAAAAEAAgP/xAAeEQEBAQACAwADAAAAAAAAAAAAAREhMQISQVFhcf/aAAwDAQACEQMRAD8A9ZV0KfTiKpXJeob1KkWCD3iaAqEKJH4UHStGxW285iyk2G7d46kgkGK2MU2ihYO0L+gqCGFg2IMLUgGtuZkwh0z0bAMr1OUpgYgkHsY3i4pyfECEALX6x5l6HI+RG1m6O01SQhCLkcY8bMewknMTMyW4o3HmbpOo8YspWq3mmSEITgZSxAIJHI8pJ2BNCzxCS6nfC0k7izplsKRYhkzLj2u28piRzjY6SBY7RWYnjkw0ny5WyNyD/gQktqqExpx6XjJ5zvip5zHYhc6MtniIe8TIV0EhtxuKmYkKLJoeZgHU/jB+sk04n1r8W5HeJ1VeASGG28jiyk49zubg1MulhtKmKdI39IEAC5fxUDBSaJ85iZcuNP6I1gdrmc5suZvixmxsalOau+XsRM4vC/sZn8Q+ArcNwZPxcuRG0LqrYjVRkPmj+HH439pvnjY856d7omx2l/5ie+PJ+UjXoZDpxsbqgZl6XPiHw6hqPczO38RVlIZclH/lmXJnwsw06l9NMg90MG+Ug+xkepygKU2359Ji6XqDiwvpS2JFDy94BC3xZDZ5rtC044xORvg2H9x/aBBXa7PmZ05UVfiNWe/eIX1EkUJikGoRCx7VCBSXB07VpzbngVFy4PDfSHuGDB4eZSWsLvtLZULuzBwb3oCb9oyyFTW5JF1Vy2LBgy2FZ7AvcRX2K3/cJowYXAfndSFvtNRVDHhxnEcmTIVF1xKJjxgNkw5ySgviGHC2Xo3Ud32jJ074enyg8tUgpg6tsZL5FsGgaPE4A2fNkGM0rnczMW/oN7iPgzNjNgwnF058aMvTZMKMqZGayDuY+Fm6ZA7qST8w8ooznLe4sbGOuQhgb27g95bVc4S6fKozvrrQ3GqBY/a1QuwBNbGUXHhdcniIqm7XedQJkdSzEVxxtG+WdoiYnXqXxtlLgqdIMyjp2yNpTTqHYmt5tVQXORstZE48jEZMVs4ZhkJv0h857X8Lgxulq1W+6i/LkQfIwFKAPi02YmTq9JHi9PqYbg3YuTGY5dd8E7gwph2AZAGB1A3v/icx7Ai4MZwGpml0nyhFYiECzLlYsGNX5iWTPqbft5zNmTTdRFcgVN5K5tnUYyV1YxYscdpIFiBWRt/WV6dhpo7hu044RXJa9NXQ5hL8MulRmQUCd/WPrZkYEn84gy4LFpk/3QLCzV1NF3/guPURA1Rj8przHMPBbTZbGPdpKjDmOPISBqvarlvt3/RP+6ZwvhuCWU33Bjs25ku1PtxJ+5/9ov203ti/WTbOoIAxKa8yYEhjajSD2kFT1zf6P6zh65v9L9ZI8RlyNkyjHjwIxJoCpK8Ot1hZSrYQR7xcGQWdq9Llv5d1RdiMQUE8ahGH8M6hSWIQf+UqnSbG0VhQmpegy0LZBMzkUaPeZw6kTUIMd9jcIYvaGzdHmZxwVPcbzNm6Z8O5Fr5iUfqWx4xjxM4sfESf0ijqGPTtjP4u/Nxmi4707J8IIN+cfKwOQhgSONpBVrG5vgcXLY30Zw57RgKBiv7rJ9Wr9p0KzbqjEX5XLZ+oGXDp3sNcbp+qx4sAVmYEMSQBFazs4CgUZxcuxtQfcSOVtWRiOCdobrW/MMDVq1rQQbcTpwkmyQLklzMKAFzTZ0i5nmN+BNHpi+qXONjBPIHoFqOWEW5bXT1hTjHn+kt0+Y4MmoBWJFAkVUkTOKb3O1GO0eUj0sfU9VlcKuNACLBINRn+2Gr8IgeQiYcigDTwB5SxJYXcPascMr9T1O6ltJ4+WYWJparzM9Rmsg6zQ7TxupYpk0jgcRl1mm1tWkLZ94SOsDm/oahHAo6KLLKTZ9ohBU2U2q95u8PWoJINcVA/dnGu23YXfvM+xZcNGxQYHzjumL+4A+8FxMu7GjdmxGzYCVNnfmO8hncMCTwPKMiMw8hKpgY4tRAr1MvgC/jYHb5VHEeSwEcixzyJw6Qu5Jm/KqgE4lJYHgr2kDgTIlq/x81cl2nan5TR4JM06w/wowJruJLF0rDIoYhR3Mth6ZMeQnI7qL2AW7+ssUuIZmCPV7953xE0qeLFTa+Pp8thmbTY00m8X7Pg00uNiQSNVCWHagdJxg/Eu3JHMixI3WyB6TfnBOJMaMAi7cbyWLGullDAltiJm3FdJ0+RdIptTHtNPjEKQVIB7VUyp0zYReo2DyO0vkx5SNs135iZubxWXQb7gbflI5MOMoNTn19Yyp4ilSTr79q9ROjGQFttVd2G8OljIvSjISUygL22hNL4zYKkXVekJr2v5QCKaY/mBf5QJVRuQ1eYmcarsNyd43zfEQQT+scOLBwWN1uN53L81HcHkxGxA0x5H5R23QAA7GrrgTIdC48drtq7k739IuBsIZvFQtyRLKQFvYfSI2mwe+9zppsaFzY2FJj/AMCKWDsP6Sr7GGJ8OkE2GHtOF0JsE/WSwzAAWV4k8mdAy2m3fzlDTd9pw4VPaGlNs+MmlBFecbE40kFeTzcdcKA2ZyqOyGh6xSWfGSl42LV+HgwpFU0umjub3mkaQvAv1mVwMhdboWCahehXNRS9eQ6ORYudLGgviEXvdbQasa7jXW2/aSpiwCgID9ZjNRi7owDufMkftOnPjUkE3zuRzIHUzhmuh5bSeTGSxI3W9t45AuciFifw+9QkPCbgH9ahHIlcfyj3nW4hCVNdf5T/AN0qvyv7QhAQp+Wc7GEJqNUg5b3Esn/yEIpoSP3hCCdM4eDCEETtMjfet9IQjAc8fUROp+/X6whC9pPLx9f2nMn3Ke4hCAaOn+9b3P7QhCRj/9k=",
+            "aspect_ratio": 1.33333,
+            "width": 3264,
+            "height": 2448,
+            "order": 1,
+            "front_image": false
+          },
+          {
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "link": "https://d3vdw1xqmo272m.cloudfront.net/listing/7945/246649.jpg",
+            "base64": "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",
+            "aspect_ratio": 1.49927,
+            "width": 1024,
+            "height": 683,
+            "order": 2,
+            "front_image": false
+          }
+        ],
+        "collection_ids": [],
+        "listingContext_id": "571577d984aaaa644ac54670",
+        "slug": "jamyang-buddhist-centre-se11-4na-london",
+        "tip": {
+          "text": "This is a place of serenely good vibrations. First and foremost a Buddhism centre, it's open to all comers whether you wish to take a meditation class, do some yoga, learn about Buddhism or simply pass some time at their vegetarian cafe and garden. There are classes covering everything from compassion meditation to the sayings of the Buddha - if you want to expose yourself to something new and grab a bit of calm, the doors here are open (unless you come when it's closed). ",
+          "language_id": "en"
+        },
+        "language_id": "en",
+        "review": null
+      },
+      "medias": [
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3539/251820.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.33333,
+          "width": 500,
+          "height": 333,
+          "order": 0
+        },
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3539/251821.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.33333,
+          "width": 3264,
+          "height": 2448,
+          "order": 1
+        },
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3539/251822.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.33333,
+          "width": 1024,
+          "height": 683,
+          "order": 2
+        }
+      ]
+    },
+    {
+      "content_type": 2,
+      "padding": 45,
+      "order": 20,
+      "text": {
+        "size": 16,
+        "text": "This is a place of serenely good vibrations. First and foremost a Buddhism centre, it's open to all comers whether you wish to take a meditation class, do some yoga, learn about Buddhism or simply pass some time at their vegetarian cafe and garden. There are classes covering everything from compassion meditation to the sayings of the Buddha and their doors are always open (unless you come when it's closed). \n\nThursday at 1pm is when to come for the regular lunchtime class, though others happen at various times throughout the week. ",
+        "style": "normal",
+        "colour": "#A3A3A3",
+        "text_type": "paragraph",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 21
+    },
+    {
+      "content_type": 5,
+      "padding": 15,
+      "order": 22,
+      "listing": {
+        "id": "5c49d392fa1690765f06ebd7",
+        "type": "Venue",
+        "author": 6,
+        "name": "North London Buddhist Centre",
+        "published": true,
+        "subtitle": "Meditation & Yoga",
+        "coordinates": {
+          "lat": 51.5494423,
+          "lng": -0.1077251
+        },
+        "phone": "020 7700 1177",
+        "website": "https://www.northlondonbuddhistcentre.com",
+        "station": "Drayton Park",
+        "rating": null,
+        "address": {
+          "line1": "72 Holloway Road",
+          "line2": "Highbury East",
+          "postcode": "N7 8JG",
+          "city": "LON"
+        },
+        "pretty_url": "www.northlondonbuddhistcentre.com",
+        "price_rating": -1,
+        "times": {
+          "hours": {
+            "0": [],
+            "1": [],
+            "2": [
+              {
+                "open": "10:00:00",
+                "close": "19:30:00",
+                "overnight": false
+              }
+            ],
+            "3": [
+              {
+                "open": "10:00:00",
+                "close": "19:30:00",
+                "overnight": false
+              }
+            ],
+            "4": [
+              {
+                "open": "10:00:00",
+                "close": "19:30:00",
+                "overnight": false
+              }
+            ],
+            "5": [
+              {
+                "open": "10:00:00",
+                "close": "18:30:00",
+                "overnight": false
+              }
+            ],
+            "6": [
+              {
+                "open": "10:00:00",
+                "close": "13:30:00",
+                "overnight": false
+              }
+            ]
+          },
+          "open_days": {
+            "0": true,
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true
+          }
+        },
+        "medias": [
+          {
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "link": "https://d3vdw1xqmo272m.cloudfront.net/listing/29980/251229.jpg",
+            "base64": "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",
+            "aspect_ratio": 1.33333,
+            "width": 4032,
+            "height": 3024,
+            "order": 0
+          }
+        ],
+        "collection_ids": [],
+        "listingContext_id": "5c49d393c177f9765f994e05",
+        "slug": "north-london-buddhist-centre-n7-8jg-lon",
+        "tip": {
+          "text": "As Jeremy Corbyn once noted, there isn't much you can't get on Holloway Road - and that extends to some peace of mind thanks to the North London Buddhist Centre. This is a simple, warm and welcoming place for meditation, yoga and learning about Buddhism, consisting of two shrine rooms, two course rooms and a large reception with a bookshop and small cafe. As always with Buddhist centres, it's open to anyone and everyone, promoting kindness, mindfulness and generosity. There's a host of meditation, yoga and mindfulness drop-in classes throughout the week so check the website for the full programme.",
+          "language_id": "en"
+        },
+        "language_id": "en",
+        "review": null
+      },
+      "medias": [
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3539/251823.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.33333,
+          "width": 4032,
+          "height": 3024,
+          "order": 100
+        }
+      ]
+    },
+    {
+      "content_type": 2,
+      "padding": 45,
+      "order": 23,
+      "text": {
+        "size": 16,
+        "text": "As Jeremy Corbyn once noted, there isn't much you can't get on Holloway Road - and that extends to some peace of mind thanks to the North London Buddhist Centre. This is a simple, warm and welcoming place for meditation, yoga and learning about Buddhism.\n\nThere's a host of meditation, yoga and mindfulness drop-in classes throughout the week but you're here for meditation, just to remind you. Jeez it's hard to get you to focus. The lunchtime drop in class is between 1pm-2pm; Tuesday evening between 7pm-9.30pm; and Saturday morning between 10.15am-12.45pm. ",
+        "style": "normal",
+        "colour": "#A3A3A3",
+        "text_type": "paragraph",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 24
+    },
+    {
+      "content_type": 5,
+      "padding": 15,
+      "order": 25,
+      "listing": {
+        "id": "5bb5edf41a86362f867a9e45",
+        "type": "Venue",
+        "author": 6,
+        "name": "Wat Buddhapadipa",
+        "published": true,
+        "subtitle": "Thai Buddhist Temple & Garden",
+        "coordinates": {
+          "lat": 51.4307479,
+          "lng": -0.2205011
+        },
+        "phone": "020 8946 1357",
+        "website": "http://www.watbuddhapadipa.org/home-page/meditation/",
+        "station": "Wimbledon",
+        "rating": null,
+        "address": {
+          "line1": "14 Calonne Road",
+          "line2": "",
+          "postcode": "SW19 5HJ",
+          "city": "LON"
+        },
+        "pretty_url": "www.watbuddhapadipa.org",
+        "price_rating": -1,
+        "times": {
+          "hours": {
+            "0": [
+              {
+                "open": "09:30:00",
+                "close": "17:00:00",
+                "overnight": false
+              }
+            ],
+            "1": [
+              {
+                "open": "09:30:00",
+                "close": "17:00:00",
+                "overnight": false
+              }
+            ],
+            "2": [
+              {
+                "open": "09:30:00",
+                "close": "17:00:00",
+                "overnight": false
+              }
+            ],
+            "3": [
+              {
+                "open": "09:30:00",
+                "close": "17:00:00",
+                "overnight": false
+              }
+            ],
+            "4": [
+              {
+                "open": "09:30:00",
+                "close": "17:00:00",
+                "overnight": false
+              }
+            ],
+            "5": [
+              {
+                "open": "09:30:00",
+                "close": "17:00:00",
+                "overnight": false
+              }
+            ],
+            "6": [
+              {
+                "open": "09:30:00",
+                "close": "17:00:00",
+                "overnight": false
+              }
+            ]
+          },
+          "open_days": {
+            "0": true,
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true
+          }
+        },
+        "medias": [
+          {
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "link": "https://d3vdw1xqmo272m.cloudfront.net/listing/28597/231361.jpg",
+            "base64": "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",
+            "aspect_ratio": 1.49912,
+            "width": 850,
+            "height": 567,
+            "order": 0
+          },
+          {
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "link": "https://d3vdw1xqmo272m.cloudfront.net/listing/28597/231360.jpg",
+            "base64": "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",
+            "aspect_ratio": 1.42144,
+            "width": 968,
+            "height": 681,
+            "order": 1
+          }
+        ],
+        "collection_ids": [],
+        "listingContext_id": "5bb5edf430e0422f86cc6c8b",
+        "slug": "wat-buddhapadipa-sw19-5hj-lon",
+        "tip": {
+          "text": "‘Refrain from doing bad things, do all the good things and purify one’s mind’. That’s the essence of Buddhist teaching and something Dojo is right on board with. This is the UK's original Thai Buddhist temple - a tranquil retreat from any outside noise and a welcome dose of calm. <br/><br/>Once those shoes have been slipped off, the temple itself is a colourful wonder, with bright, dreamlike imagery depicting the life of Buddha from his birth to death, along with murals of myths and famous figures from the Buddhist way of life. But the grounds are also worth some time: five acres that feature an ornamental pond, streams, quaint bridges and a beautiful flower garden. It's a place to stroll about in and get back to yourself. On Saturday they run meditation classes from 4pm-6pm and you can attend, regardless of faith. <br/><br/>The main Temple is only open on the weekend or by appointment only and plz, no tank tops or mini skirts here. ",
+          "language_id": "en"
+        },
+        "language_id": "en",
+        "review": null
+      },
+      "medias": [
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3539/251824.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.33333,
+          "width": 850,
+          "height": 567,
+          "order": 0
+        },
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3539/251825.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.33333,
+          "width": 968,
+          "height": 681,
+          "order": 1
+        }
+      ]
+    },
+    {
+      "content_type": 2,
+      "padding": 45,
+      "order": 26,
+      "text": {
+        "size": 16,
+        "text": "This is the UK's original Thai Buddhist temple - a tranquil retreat from any outside noise and a welcome dose of calm. Once those shoes have been slipped off, the temple itself is a colourful wonder, with bright, dreamlike imagery depicting the life of Buddha from his birth to death, along with murals of myths and famous figures from the Buddhist way of life.\n\nBut if you want to actually get involved in this tranquility, Saturday is the day to come when they run meditation classes from 4pm-6pm and you can attend, regardless of faith. They also do a full day's retreat on the last Saturday of the month, though that's more for the pros. ",
+        "style": "normal",
+        "colour": "#A3A3A3",
+        "text_type": "paragraph",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 27
+    },
+    {
+      "content_type": 5,
+      "padding": 15,
+      "order": 28,
+      "listing": {
+        "id": "5c49df9348c90f68a58280fd",
+        "type": "Venue",
+        "author": 6,
+        "name": "London Buddhist Vihara",
+        "published": true,
+        "subtitle": "Meditation and Learning Centre",
+        "coordinates": {
+          "lat": 51.497013931286915,
+          "lng": -0.25620130793458884
+        },
+        "phone": "020 8995 9493",
+        "website": "http://www.londonbuddhistvihara.org",
+        "station": "Turnham Green",
+        "rating": null,
+        "address": {
+          "line1": "17 The Avenue",
+          "line2": "",
+          "postcode": " W4 1UD",
+          "city": "LON"
+        },
+        "pretty_url": "www.londonbuddhistvihara.org",
+        "price_rating": -1,
+        "times": {
+          "hours": {
+            "0": [],
+            "1": [
+              {
+                "open": "08:30:00",
+                "close": "11:00:00",
+                "overnight": false
+              },
+              {
+                "open": "14:00:00",
+                "close": "20:00:00",
+                "overnight": false
+              }
+            ],
+            "2": [
+              {
+                "open": "08:30:00",
+                "close": "11:00:00",
+                "overnight": false
+              },
+              {
+                "open": "14:00:00",
+                "close": "20:00:00",
+                "overnight": false
+              }
+            ],
+            "3": [
+              {
+                "open": "08:30:00",
+                "close": "11:00:00",
+                "overnight": false
+              },
+              {
+                "open": "14:00:00",
+                "close": "20:00:00",
+                "overnight": false
+              }
+            ],
+            "4": [
+              {
+                "open": "08:30:00",
+                "close": "11:00:00",
+                "overnight": false
+              },
+              {
+                "open": "14:00:00",
+                "close": "20:00:00",
+                "overnight": false
+              }
+            ],
+            "5": [
+              {
+                "open": "08:30:00",
+                "close": "11:00:00",
+                "overnight": false
+              },
+              {
+                "open": "14:00:00",
+                "close": "20:00:00",
+                "overnight": false
+              }
+            ],
+            "6": [
+              {
+                "open": "08:30:00",
+                "close": "11:00:00",
+                "overnight": false
+              },
+              {
+                "open": "14:00:00",
+                "close": "20:00:00",
+                "overnight": false
+              }
+            ]
+          },
+          "open_days": {
+            "0": true,
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true
+          }
+        },
+        "medias": [
+          {
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "link": "https://d3vdw1xqmo272m.cloudfront.net/listing/29985/251242.jpg",
+            "base64": "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",
+            "aspect_ratio": 1.33333,
+            "width": 3264,
+            "height": 2448,
+            "order": 0
+          },
+          {
+            "media_type": "image",
+            "mime_type": "image/jpeg",
+            "link": "https://d3vdw1xqmo272m.cloudfront.net/listing/29985/251241.jpg",
+            "base64": "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",
+            "aspect_ratio": 1.5,
+            "width": 1920,
+            "height": 1280,
+            "order": 1
+          }
+        ],
+        "collection_ids": [],
+        "listingContext_id": "5c49df93508f0d68a58cfeb0",
+        "slug": "london-buddhist-vihara-w4-1ud-lon",
+        "tip": {
+          "text": "This discreet place, on a residential street in Turnham Green, is the UK's leading centre for Theravada Buddhism. Its legacy stretches back all the way to 1926 and, though it might have moved buildings a couple of times, it claims to be the first Buddhist monastery established outside Asia. We're not ones to doubt (or spend too long fact-checking). <br/><br/>Inside is a very simple operation where classes on Buddhism and meditation often happen. They have drop-in classes on Wednesdays and the second Saturday of every month if you fancy a change of pace. It welcomes all comers and promotes kindness, generosity and positivity - all the good stuff. ",
+          "language_id": "en"
+        },
+        "language_id": "en",
+        "review": null
+      },
+      "medias": [
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3539/251826.jpg",
+          "base64": "/9j/4AAQSkZJRgABAQEASABIAAD/2wBDACgcHiMeGSgjISMtKygwPGRBPDc3PHtYXUlkkYCZlo+AjIqgtObDoKrarYqMyP/L2u71////m8H////6/+b9//j/2wBDASstLTw1PHZBQXb4pYyl+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj/wAARCABkAJYDAREAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAgMAAQQF/8QAMxAAAgIBAwMCBAUDBAMAAAAAAQIAEQMEEiExQVETIgVhcYEUMkKRsSMzoSRDYvHB0eH/xAAYAQEBAQEBAAAAAAAAAAAAAAAAAQIDBP/EAB8RAQEBAAMBAQEAAwAAAAAAAAABEQIhMUESQjJRYf/aAAwDAQACEQMRAD8A6GwXuqyJxrpqg25q21MceVtWzIFk5scGdEUW4pxYgWtKoC9O3MCPYFqLlBCVF1AkCQJAkCqgCFO4sxG3tM1TDx2qQASzGh0kEC8ygM28e1OOLJmbvxZn1nGN7O5vvcsmNa6KkTbkt67RhCyIUDDmqmLutTMLasYLc0O0tBrtb3C+RHaFDUqXChWFmomhvu8zQlN5gSm8wJR8wLAPmQUXK5NoA6XzJbgYh3ICQIRCL+cksvcUmyM4APXiY5T9csb/AJ09RzOsmOYc2Msw2kAVzFl0lANOv6iSZPyv6MS9vM0i4FK24QIekBOcf0mMzWoLDbqD3I6SSWQpWTC6kKF4u+SLk477TotXOP3ZLr55Lmv1at4yeU1c4AulIPSNZwfrjrtT95f1DAHKWF0ok2GENlTKKGzjuSa/xHc+tcZvpmDCT7kZAO9E/wDmLLfacpONyNoARQOPtHGXO2E3Dn/EYMzMBnokD/qYn+bp/J28VXWdHPBA+0HzLggJJlRdAdIEgCqhbrvJi6HUttwFrrkfzNVAf7Nm7231mK1Cy5GNSDUlvXS4LExfqbBETSs2JUzBWyle9jp2/wDksknhbaA0OAeP3mbOwwC2IFVGQ0Lhtrg3tqpPoVsCe8GgBR+fHIm9OMvxswN/pA91ZJkvUPo8T7mFNYuSbpfBFjuA7E8zSFv/AHOp+0KJOpMqVoX8g+ksZXVQKJAIBIswFnPiBIORbU0eehhVNqcKMVZxYXcfpADJmXUaO0sbum4VFuJJoMWVmxsuTHspeCT1krUUabAoMx8a+iwUDQ8Rx9OXjARaEKG3BjXibOx4d616i1d3UWz4mXexjK+9kCHbYokTPWKN8rFCEHQcX5mfpjI+XJkSs4bcDxxOkk3prbxn/W3DzokXiz2k5MT1NO1EblK81dcE/KSTst6H6yN6hxn3Y7sGVAYHbNjGRwLJ/TLelnbUgU8C+PMm6lmGjpNMs+o1eHTsFdiGPNAR6A1OBWf1tzbloV2ELANjSwSO9xi6e+nxqGyHbxVMfHgyYaD0sGqxkYjQHZf0nyJWWT4hqCMOPEbtgCxPWv8A3LIWrwZcOVSuZiPTO5SJnMjdst6U+ry5cLnT46IarHWvMs4xjSlTNrN2VSorgrfyl8alb2x5yrBmCKQNrL1Hm5EE+TGEIZhdSCxlxtW1gb6QBdfw+J8nqlixv3dB9JRl1OBk07ZXYZGYjb/xB6xEVg1WVAeC2HGB9R9YxWrValdOuMLiXfk93/cZqag1n9EBE2kV1HEZVll9alYMoYVzIFY9ViyuURtzC+K6yor8KjndnG5vFySNW/6LVWBVSSSB7jfUxho2VV7mX8n6FYz4Gxvz2uE+l6fAukva5Knk7u0GdOZ6g1+uxjIKB49nia8jHroZNEqaXImIEu3NmRojDi/DYsmP1F9dxQTdL6ngMQfR6dhm/Nk6DvGabhuDUo2NkYlCTY4uLxwl0/GlBixBs3+WcbydMMAA6KIl7MczV6z8TWNUI2tY8ztI52t+FgcGnL0Btum45EismnGz4nnxohYMCCDF8Sek6zOc2oteAh456yzovbo4cJzYwQBVdTHa9Q7DiyIzK9Be1d5LF2YZj0+HExdMYDVye5hlztdrM3q7ceP2jvV3GatuH48OpYb2/UBx4mkWw2inB+8y1IrT5BuyVVCh94DsW1z7654A8xC9Imj0+Jt+PHtPyMrOl5NbgTJsL89OBwINcjKKzuKJKt+aajNgsmRsj7m7gS8fC0Nyo6+I+phRvInl5TLjvL0rO/pYmbuOkceO0tyMem1BwZGdVHu/NxVz0/mOGl/EMrahlcjaBxVyWZcX2a2fDPUfQupNWSqnrQma1D9L8Ow4VBZQ7+W5lRsgQiADCxQ7yWLEVceFQBSj+ZcLdHCByY1yoVdQynqDAxjT/h1VAAAzECpLGpWDPl1GHMcd7QCH5iROVdJdR6mi9fbR2k185UcZVOfIAxNFrJqL4TunbjRUksO99okW0S4cf4d6Jsc2RVGXwyYzBHIJAuvBua2MY7GBdmBFPUDmeblduu06gM67wAfMcblLNhSYMT56L/UXU7fq/HP8z634sGPEPYo5+8KZtEIK6HPAgUGU9GH7wIWA6kD7wKDBuQQR8jAy6/JtCjmWDYJBcCoHN+L4bGPMo5U030liXwn4ZiGV3Dk7VFFL4NxSOrjxJiFY1Cj5SKJlUqQQCD1EDk6xPSX0VNqfP7wvwGJCqg2AR3ElWN2I+ogYfecrGtEUjF0nUYVfC1gFgLE1x2VL3D9Ab0eO/B/mda5webMMIs/t5kWTXOzZ3ysdx47DtNY3JgC209OIUJyE9CTKun6FmOdasA3clYt6aNbhbKqlFJINcCZZawfMqLLBRZNCQUrhhYMoXqld9M6463sKFwE6LSNpxucjeRTV3kJMa4EPSBi/DoXYtZJ62bmbWsWNPjHn95NXDVUKKA4kFwBYE9oCdPmbTr6OVG2r+VwLBE6brHitVmTKgC7uD3UiWNcWNuommlMaMiotuwVRZPSVHZ0+EYMQQcnqT85hzNgcnHny7f7jfvALexNl2J+sijxu6uDy38wNqEMNymxKheTVYseQYy15D+kQGwLgLb8xmK1EgSBIFfaBK+UDJqzwABwDz9Zrj61GMn3ToNGl0o1BYsxCjjjzJalrXg0yafLwSxI4J7TNqexqhlLgcVOJBowIHYA3CtwUItKKlRzzkfFhZVcgVd9+ZLVkXhRceUqBddz1MsSuh2gUGJAmdXEhUqBcCoEgSBk1v9ofWXj61xc8nmdB1tCANKhHeyZhi+tB7GESBUD/2Q==",
+          "aspect_ratio": 1.33333,
+          "width": 1920,
+          "height": 1280,
+          "order": 0
+        },
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/3539/251827.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.33333,
+          "width": 3264,
+          "height": 2448,
+          "order": 1
+        }
+      ]
+    },
+    {
+      "content_type": 2,
+      "padding": 45,
+      "order": 29,
+      "text": {
+        "size": 16,
+        "text": "This discreet place, on a residential street in Turnham Green, is the UK's leading centre for Theravada Buddhism. Its legacy stretches back all the way to 1926 and, though it might have moved buildings a couple of times, it claims to be the first Buddhist monastery established outside Asia. We're not ones to doubt (or spend too long fact-checking). \n\nInside is a very simple operation where classes on Buddhism and meditation often happen. They have drop-in classes on Wednesdays at 7pm and the second Saturday of every month between 5pm-8pm if you fancy a change of pace.",
+        "style": "normal",
+        "colour": "#A3A3A3",
+        "text_type": "paragraph",
+        "uppercase": false
+      },
+      "follow_button": false
+    }
+  ]
+}

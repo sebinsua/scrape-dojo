@@ -1,0 +1,375 @@
+{
+  "id": "5aa7ef1b5af4546ad2d3b86c",
+  "name": "What's the Deal with... Natural Wine?",
+  "slug": "whats-the-deal-with-natural-wine-london",
+  "followed": false,
+  "city_id": "LON",
+  "contents": [
+    {
+      "content_type": 1,
+      "padding": 15,
+      "order": 0,
+      "medias": [
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/2849/182924.jpg",
+          "base64": "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",
+          "aspect_ratio": 1,
+          "width": 1280,
+          "height": 854,
+          "order": 0
+        }
+      ]
+    },
+    {
+      "content_type": 2,
+      "padding": 15,
+      "order": 1,
+      "text": {
+        "size": 25,
+        "text": "What's the Deal with... Natural Wine?",
+        "style": "light",
+        "colour": "#ffffff",
+        "text_type": "title",
+        "uppercase": false
+      },
+      "follow_button": true
+    },
+    {
+      "content_type": 2,
+      "padding": 45,
+      "order": 2,
+      "text": {
+        "size": 16,
+        "text": "There's all sorts of rumours flying around about natural wine: it doesn't give you a hangover; it's only for hipsters; it's fizzy, cloudy or just plain gross. But how much of this is true?\n\nTo avoid repeating any old thing we heard on the grapevine, we decided to ask the pros over at P Franco: Phil, Tom and Francesca. They run the show, pick the wine, and get in a guest chef every six months or so to run the kitchen. Most importantly, they drink the stuff a lot (when we arrived they were in the middle of a tasting with some uptight looking chaps from Burgundy), so they know what's up.\n\nWe cornered Phil for a good quizzing, he pulled up a bar stool, stroked his beard and got deep into the politics of the matter.",
+        "style": "normal",
+        "colour": "#A3A3A3",
+        "text_type": "paragraph",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 3
+    },
+    {
+      "content_type": 2,
+      "padding": 35,
+      "order": 4,
+      "text": {
+        "size": 20,
+        "text": "What makes it natural...",
+        "style": "semi-bold",
+        "colour": "#ffffff",
+        "text_type": "heading",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 1,
+      "padding": 15,
+      "order": 5,
+      "medias": [
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/2849/182871.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.50059,
+          "width": 1280,
+          "height": 853,
+          "order": 0
+        }
+      ]
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 6
+    },
+    {
+      "content_type": 2,
+      "padding": 45,
+      "order": 7,
+      "text": {
+        "size": 16,
+        "text": "Turns out 'natural' is a pretty loose term and is the cause of much debate in the biz; there are no rules about what you can call natural wine, but it usually involves a combination of organic and biodynamic techniques, small batches, less sulphites and handpicking the grapes.\n\nPhil explains how organic wine follows a set of rules concerned with chemical-free farming and low intervention in the fermentation process, and biodynamic is to do with the moon. 'So, witchcraft?' we ask. Apparently not. Just like tides, the water table is affected by the lunar cycle, and so is the vine's access to nutrients in the earth. This means the wine is much more a reflection of the soil (or 'terroir' in fancy speak). ",
+        "style": "normal",
+        "colour": "#A3A3A3",
+        "text_type": "paragraph",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 8
+    },
+    {
+      "content_type": 1,
+      "padding": 15,
+      "order": 9,
+      "medias": [
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/2849/181221.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.50059,
+          "width": 1280,
+          "height": 853,
+          "order": 0
+        }
+      ]
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 10
+    },
+    {
+      "content_type": 2,
+      "padding": 45,
+      "order": 11,
+      "text": {
+        "size": 16,
+        "text": "In more traditional wine making, fertilisers and chemicals would hammer out all the imperfections to make a product with no fizz, better clarity and a more consistent flavour. But natural winemakers argue these chemicals are unnecessary - what's a little cloudy grape juice between friends? \n\nIf you are scared of unexpected fizz (with less sulphites the wine continues to ferment in the bottle, sometimes leading to fizziness), Phil assures us that letting the wine breathe a touch will get rid of this. Tidy.",
+        "style": "normal",
+        "colour": "#A3A3A3",
+        "text_type": "paragraph",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 12
+    },
+    {
+      "content_type": 2,
+      "padding": 35,
+      "order": 13,
+      "text": {
+        "size": 20,
+        "text": "Why they do it...",
+        "style": "semi-bold",
+        "colour": "#ffffff",
+        "text_type": "heading",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 1,
+      "padding": 15,
+      "order": 14,
+      "medias": [
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/2849/182925.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.49883,
+          "width": 1280,
+          "height": 854,
+          "order": 0
+        }
+      ]
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 15
+    },
+    {
+      "content_type": 2,
+      "padding": 45,
+      "order": 16,
+      "text": {
+        "size": 16,
+        "text": "Biodynamic winemakers or 'punks of the winemaking world' are breaking with tradition. They're doing it for the love of wine rather than thinking about mass production, and they're prepared to do things the long way, handpicking their grapes and using riskier fermentation techniques. \n\nFor instance, they will often rely on ambient yeasts (present on the grape's skin, or in the air) rather than adding a cultivated strain. This means the fermentation is less controlled and the resulting flavour profile less predictable but much more complex. Complexity is generally considered a good thing (See, we're learning). ",
+        "style": "normal",
+        "colour": "#A3A3A3",
+        "text_type": "paragraph",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 17
+    },
+    {
+      "content_type": 1,
+      "padding": 15,
+      "order": 18,
+      "medias": [
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/2849/181219.jpg",
+          "base64": "/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDACgcHiMeGSgjISMtKygwPGRBPDc3PHtYXUlkkYCZlo+AjIqgtObDoKrarYqMyP/L2u71////m8H////6/+b9//j/2wBDASstLTw1PHZBQXb4pYyl+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj/wAARCABzAJYDAREAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAgMEAQAF/8QAMhAAAgIBAwMDAwMDAwUAAAAAAQIAAxEEITESQVEiYXEFEzIjQpEUUoE0ctFTYqGx8P/EABgBAQEBAQEAAAAAAAAAAAAAAAABAgME/8QAIREBAQEAAgMAAwEBAQAAAAAAAAERAiESMUEDUWEiE3H/2gAMAwEAAhEDEQA/ACB8dQmGhdZ7gH/Eo7PsR8GAYY45MgzqxuOYHdZ9z8QOZ0T82Vfky4aWdZQvDk/CxhrD9RrHCuf4jEcPqNXdXH8RiiGupb95H+4RgctvWPSVb4MmUb1Y9pB3V7wNDQN68SjuvzCN6x5EDOoeYEyn/wCxI0PYwO6RAILv5gLt1FdeQPW3gcCakZ1K911m2ekHsu01iMXSO3b+ZLZPYaugPciZvPjDsX9APJi85mjjoB2JjzgFvp79t5rYEtpnQ5wR8R79GiS+5Nm9Y8NGKorurs2Hpbwf+ZMXRE4bfb2kVofEI0NkQCBJ7gwBYn2gLUkTKj6wBlpRqMGzjOByT2lkNKtsL5SvIXue5m5GLWV6bO52EnLnOJ7VV0KvAnLy5cr30vobgIOrYKOZbwk9GpjrMPj7ZCeW8yeE+ppb6243AU0lk7bc/wCZqcfotpLvUGeso3iMXBgkNjAwfJ3iDsK3uDJ49ml26ZG4G815WJiO3SlZqWUYljJhbMsvY9xLYaaQAARkg8GZsa1gO+xkHZPbBgYT7QB68L5mVGm/HJlwE4JHQOByfJnSRi0dVIyMxyuRDwoBzOHHjt8q1/APZUp6i2WG2283vHTthd7SwX0KP3EcxtpmBU6ezKr0t1eoy9EdZqqqAATx2ELbhDa/7ikIGT4kqant1NupdVGVOdsS/wDqGobKU9Svk/iTtM2UXaew20hmBDcGXNnQIjMxlikWUg8Ttx5b0yUmaie6nkS2KNwPOe4MzemoSdjn/wBSA8AjmQTZBENKNKuzP42HzNcZ9ZqlEwJ0jBoAVc95w5W8mp0Vbb0VnCknwI7kxZPpGkRMfcNIRu01xlnsZqL3bqQKAnBZu8ltDKqlrX0KNx+WY7+HSa6m4OzIobqOdzE7iWOr04whtDKc8DjMvX0VhBkYAHjaLd6azBG1erobfgHI2EWyIY9i1AZHPiW8vFlqOtqBl4Ml/wBQYROUnagasN8z0cbsZK6Mg1n5U+DLYspHHOxnJsPWRyMwJjnxKPT0qYoT33m2KedsSc7kI4nYZ7zjP21hFzqDhtk27S6rrXWqvqON+Ju1En6urU4GFBODGWo22y6mtEZsN7d5P5RZpSftZYnPvHFWai6rj7vSy78Zi0xEdey2bOGGf7Ympa249di2K+AeCTwYuewVDXC0+onPOd4n8R6KDCgYnSS/UaRJynRA8Gc+NyqG1c7id0TakYIbH5D/AMznyjXEgDJmWkxPiaR7VA/ST/aJplz858TH5L8IUQa06gxPyczFnXTUIuvNVIBOWPciamlDSGvQrcC3cZj3UilEStQqjAm1L1NbFQyKGIPBks6EyXNWwVzhV/aJn6gXqGpLPUWPnA3l4/0tHp9N9tsq56/+1uk/weZtFOBZ6LAlh/ttTob+ZASU1CwFQ1DDbpYbH4MmQUOG4BwZrlx8p7SXHZON4zoZOfjF1uMrOsRNql/Rz4MnL0s9pS4CDE5Y6Iz7TbL3NK3Vp6z7TTLXXJnLnO1iPXN01nBI+ICzhkG2RjvK1CxqBWpKsA/HTiSbL0la2rcrknDAZGDF0gqtVY2FK/JzLOhl69ThhnJ9sxez0QLAhyC3UN/TtiWbqKatb9xQuorFq+TzLosVRYv6bC2vvXZyPiaiHDppXGTjGeljnp/zNSM2oX+oAXAAZXO59pqi3neYtVhOJy5cpxmrBpus3wuzUpOs/wBO81SPMnN0LZBKj0fploNZrzuu4mmVjjcGY5Bd1PWnn5kzpU1iIqDpzjuJmcpVTf09RbJP8TcwF9hdiMS5+gSuqNuMjjMlU37yMuE6cyS94nTz76WUnHfsJr0gKxYPxBDZj2hr2X9exwRxjtJP8nsy6696sNgjkkDf/M6T8m+08cS9YGdiSe5l0exprOvTVnnbE48uWXIshg9RnLx5c721uHKMDE9MmTGEv1BwtGPJlvpY84Ezm2w++YR1F39PqFftwZqJXuAh0BG4O4lQLNic7cEzlVyW4ieM7oRZQHw6HbHE3kvcA0V5IWxWz5B2Mzxs3tezdVWXoK14E3cs6ZQ06a4WjYj3mc1V60Afkcy+OGlt0izpAOTM2/IQLrvky5+1D1YgaK6rfyUZ8jYxL8Sj03Vp7Ok+qsnYy8bx5X+l6eggzuJtDO0g8j6jd13BAdlkqxOCMcTDTjAU+8ot+m63oP2bDt2M0y9VlDCZs0T2IeMTleN9RQqOwE1x8vRW4J7bTVl+oB6+qsoDjMmZMg5KyqKC3E1J12CwfM1UCwUbnb3kue6OIBHmb2YhLV5MzY1oftYO3M48pFlUV15GDuPBmr+P9VNPrQ0g7llO/uJ23Z2zmemavUrVQXByTxGYu68QMWYk8mYrUNGJlosk95UAYCzsciVHp6D6jjFVx27GVHq+lxnYjzAW1XcSoUwbHeY58diyhyZxznGumE5Eu8vsTHbZBxxHlDGOAwwYvLTGDAGJZyyGDA6u06cd5TtL0JaN85j/AJw09UAm0L1N6UIS537CB41erdXYjDVsd0PETlhZp/2q7gWoOD3Q9pq8d74pOWdUkgoelhg+DOVjppeR3EAdu8ASJULIgVaX6hbpzgnqXwZR7Gn11N4GGCt4MIpKgwANQMuoA0wM+zGQd9mMgIVDvKCCgcCTRpIUZYgD3hUOq+ppWCtXqbzIPJtte5+pzmFcokDUJVgysVYcERuLmrU1NNqgagBWHfGQf+JucpfbneNnp505ujjAwiUCRCAKwMBKnIOJRTTr76eGJHgwLa/rP/UT+IRSn1TTtzkQGDX6Y/vgYdfph++UKf6rQv4gmBLb9Yc7VqBIIrdVdcfW5jVLAkBgQDAxIouO0g0HPeFLlR0DDKMMDCIQBgCZR0DoHQOgdA2QaJQa8SAxCimVdA6Ef//Z",
+          "aspect_ratio": 1.30081,
+          "width": 1280,
+          "height": 984,
+          "order": 0
+        },
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/2849/182928.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.50059,
+          "width": 1280,
+          "height": 853,
+          "order": 1
+        },
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/2849/181218.jpg",
+          "base64": "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",
+          "aspect_ratio": 1.50059,
+          "width": 1280,
+          "height": 853,
+          "order": 2
+        }
+      ]
+    },
+    {
+      "content_type": 3,
+      "padding": 35,
+      "order": 19,
+      "text": {
+        "size": 16,
+        "text": "Swipe for more",
+        "style": "normal",
+        "colour": "#ffffff",
+        "text_type": "separator",
+        "uppercase": false
+      }
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 20
+    },
+    {
+      "content_type": 2,
+      "padding": 45,
+      "order": 21,
+      "text": {
+        "size": 16,
+        "text": "This ethic fits perfectly with P. Franco's accessible approach to vino: pairing good food, served at a communal table, with good wine; glasses are basic, and fuck washing them out between vintages - there's only so many hours in the day.\n\nThese guys want you to turn up on a whim (you can't book) and feel right at home - as if you were turning up to a dinner party, but one manned by an incredible chef. When we were in, George Tomlin knocked us up some scallop with its roe, preserved clementine and chives. It was pretty sensual.",
+        "style": "normal",
+        "colour": "#A3A3A3",
+        "text_type": "paragraph",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 22
+    },
+    {
+      "content_type": 2,
+      "padding": 35,
+      "order": 23,
+      "text": {
+        "size": 20,
+        "text": "The verdict...",
+        "style": "semi-bold",
+        "colour": "#ffffff",
+        "text_type": "heading",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 1,
+      "padding": 15,
+      "order": 24,
+      "medias": [
+        {
+          "media_type": "image",
+          "mime_type": "image/jpeg",
+          "link": "https://d3vdw1xqmo272m.cloudfront.net/story/2849/180931.jpg",
+          "base64": "/9j/4AAQSkZJRgABAQEBLAEsAAD/2wBDACgcHiMeGSgjISMtKygwPGRBPDc3PHtYXUlkkYCZlo+AjIqgtObDoKrarYqMyP/L2u71////m8H////6/+b9//j/2wBDASstLTw1PHZBQXb4pYyl+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj/wAARCABkAJYDAREAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAgMEAQAF/8QAMxAAAgIBAgUCBAUDBQEAAAAAAQIAAxEhMQQSQVFhInETMoGRBSNCocFSseEUJDM0Q/D/xAAYAQEBAQEBAAAAAAAAAAAAAAABAAIDBP/EAB0RAQEBAAMBAQEBAAAAAAAAAAABEQIhMUESA1H/2gAMAwEAAhEDEQA/AAvbFuPBnL+XjPJG51BnRHcAwHGVgnAJxmMTOJuN/EkjYHCiU9T1ODTKBM+TOnOs8Q8YwUFTjAz0nns3kxd/WPLssC+oa2tqT/T4Hmbvbq6jhmtRrW+Rf3MZCv8Aw10FDBmAIaPGdC+h/EX/ACX5DkEgZjy8ihNmP9O47AD9/wDEy2iTdh4hErstK1VNW2vJg+DLbus58CbTow3DZ+8zBYXdzW8WwH6iD+06S9JvGnHHWeDiH0k12clwfXQylWPTvve3hgTWApI/VK3pmzoqi566woOBKeEPEH84Tl/Lw1NZttsZ0EAhwwIgTaVzf7GdOHrPLx7PDjCZ77R3aIi/EuJXIrTVh8x7eJzvpk71FVQ9qO4HoQan+JXqa09DgDzVMmRgZ0muN3irOyOA5jcyAa7/AEhwsxX1Vxac1DLrq4395rl5FPUROabj5X+TMfGvqVDiwSiGr4DLCwCHbxiAaX5Lg+n/ABmalBVjCy53HXWavp+Fg+qCejVehqrU64BJ+0s0cuk6WLywgFexNgnP+bVLfOuk6AnMiq4ZSzjG50E1xuRmr+OvHDUqlZ9ZGB4HeV66WPLqra5jjOBuZi3Fy5fmLa3FVVlJ2Oomd3jVwugot+EzA7MMR/ncboKbWptFidND7Q4XKqt4yzRFJywBY49p0tUefzf7R/LgftKeH6lB9WfMEY4wSfM1YHBsWEHYzFDrNVGNcSiLUHsdppMO8ko4dlFdxY68mFiL2Rkj6wJ1jaqfExx6TSTyjWbBOuYFf+HWV1l3sPyqSJShOficZxOmrOfsJenxdyrQq1oNtz3MzzcOXdT3HXm9pmf43wKc52lwnbs1WHKc9RDO074xet2OpCBf3/xN53UWf+oPLn+06fGfpEy0a59KnvNUFvnMEfTzEGwDQb/WGA+3mCKSPSdvM3PElFRd8DrLE4VAdTL8jXCteusfytc3yAdtJynpapypHaaBZ3gW82Ex3Mk9HgR8CvmKnnbqR0nSTpm0HEuSc95zrKZmznXpMxqBOhU53EuPrbFPpWX0uBxQw7sP2mg1mzw4HUMT/ab+ApcazFagm1qXxNfA5DgGZShT+SB/U+fsIxD4hs10r0CTbIKzyujHrLe0GzR2HmKDJNdMrnmHmc/z36tKX0neWFh1MkOpOdgpIHvKRV6KWulirzaMQGwMaTbIeJX80sRpkzlyYtT2cOxfKYwe5hx2zTxvRFilGAzkiadYwD0jxM30ucABfvNAGdJpMBghZ9GPMkI7aCZiMAOF8CaiMtVilYGNB/MdWMNbjA6YzLVjLhi0zWs4XmWoYsIJ2OR1lb2sKI84mWg9dxBDpc12BgdYwU9ri1oZjk6RGKbiWbGesxz9c3EHQAQ4eLj4mt4e6xyVQkTX5rrLMKsoupXNlbKpO8LxMqvheGpvozYGyDjKnxNSKib8O4flyLXxnsIgpuCoX/0c/wD3+YEBpQI3KNe5gQBIIZdR7iazQE24OMQsOnE7cx0wNY/ka4kMSRqJmmB5QYJI3zTrWA9ZksMiwbwRy6WKYhXa36u2sOUc8Hw1hsrsPNjB0j/OZDJjPiMD881tayNwLiq2czDO2YJXwgRUcIvKAdQBJGtynt9pHE9vKO32gZEbHJMCzEETdUdXA95RERAkRrDiWlYq8qgDpBNxJImHqE6VkMymNKlkEaPmWIVZc+nQL3O0kcqALpcoPXlB1mg4K2dwR5ENRqooIYgDsRHU3hLWYWYwSCJepTzb56QJFuSTqR4kkYHrxqZlowLBNYAQRK8LU7Dns5ATgaTcFaiKo0EzSPEE3EU899CD5nSswB3MyXGVQYIYOoklfxwyBSDoOgjoxouwNBLVghxDgYEtWBaxn3Okid+HEfEtHfH8ygq79GeUZ2MUTbgjI2kkin83Ew0aTLEDEk0LkRTcQQgsE7lknmWTrWAHeZLjIsgmiSEGECMOJJvOeimIGtdj+BL1KqFFIIyATtnrNZgq4jfH1EkTZjHtCmIuYC3sTAmfSIbg4ghKND7STQIFpxJMgnm2idawVMlx2kXQThJKqKudcmMmi1QKFEfytNWlRqBHBo+XHSKK4urnoPcHIhVEAvtrUqruv1mNaA19rb2OfrJOqLBwZal1bfeKOUKxGfUOojmg4YawAIVUDYTUAmp1JVSF8wsWpxrrOdbcTrBILBlM9dp1ncYTnYTJd0kXDeBNRBpMp6HDqOXadIxT8CaDpIQAkWWfJiFSC5Rk6TFbhHKIIagYkhpNAwSRqkg5DMD7y1Nsdm0ZifeFqjAdJksGsk//2Q==",
+          "aspect_ratio": 1.49883,
+          "width": 1280,
+          "height": 854,
+          "order": 0
+        }
+      ]
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 25
+    },
+    {
+      "content_type": 2,
+      "padding": 25,
+      "order": 26,
+      "text": {
+        "size": 16,
+        "text": "During our chat we kept returning to the same issue: that people disagree on what makes a good wine. Our man Phil apparently likes a complex flavour, one that lingers on the mouth a while. We look perplexed, so he simplifies: 'It's about finding a wine that makes you want to dive back in for another sip.' Now that we can understand.\n\nApparently you can make it as complicated or as simple as you want. There's no denying that using less chemicals is better for us and the planet, but the flavour needs to be taken case by case. The irregularities of natural wine allow a wider range of flavour, which means more wine at both ends of the scale (delicious and disgusting). \n\nThe one we tried (a Tschida) was delicious, very smooth, and we might even call it rounded. Its flavour hung around a touch without leaving us gagging for moisture like some reds do, and as for the lack of hangover? You'll have to test that one out yourself.",
+        "style": "normal",
+        "colour": "#A3A3A3",
+        "text_type": "paragraph",
+        "uppercase": false
+      },
+      "follow_button": false
+    },
+    {
+      "content_type": 10,
+      "padding": 45,
+      "order": 27,
+      "text": {
+        "size": 14,
+        "text": "P. Franco",
+        "style": "semi-bold",
+        "colour": "#ffffff",
+        "text_type": "link",
+        "uppercase": true
+      },
+      "action": {
+        "name": "P. Franco",
+        "type": "listing",
+        "item_id": "57157715ed4670643301e7e7"
+      }
+    },
+    {
+      "content_type": 3,
+      "padding": 45,
+      "order": 28
+    },
+    {
+      "content_type": 10,
+      "padding": 15,
+      "order": 29,
+      "text": {
+        "size": 14,
+        "text": "Click for more natural wine bars",
+        "style": "semi-bold",
+        "colour": "#ffffff",
+        "text_type": "link",
+        "uppercase": true
+      },
+      "action": {
+        "name": "Natural Wine Bars",
+        "type": "story",
+        "item_id": "59c3e20babfe456a327a4221"
+      }
+    }
+  ]
+}
