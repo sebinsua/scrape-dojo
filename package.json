@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "fs-extra": "^8.0.1",
-    "got": "^9.6.0",
+    "got": "^11.8.5",
     "ts-node": "^8.2.0",
     "typescript": "^3.5.1"
   },
